@@ -1,8 +1,7 @@
-# TIK handheld device 
+# Bachelor's Thesis: *"Development of an acoustic measurement system of the Modulus of Elasticity in trees, logs and boards"*
 
+These are the public available documents of my Bachelor's Thesis, titled: *"Development of an acoustic measurement system of the Modulus of Elasticity in trees, logs and boards"*, with which I finish the Degree in Telecommunications Engineering at the Universidad de Granada. It has been developed with the help of the [GranaSAT Electronics Aerospace Group](https://granasat.ugr.es/) ([@granasat](https://github.com/granasat)) and [IDIE-ADIME](https://idie.ugr.es/idie-adime/) teams, and under the European [LIFE Wood for Future](https://life-woodforfuture.eu/en/) project. 
 
-These are the public available documents for the first generation of TIK (Tree Inspection Kit) handheld device. This work is my My Bachelor's Degree final project at the University of Granada. 
+This project constitutes the first iteration that begins the development of a device capable of measuring the Modulus of Elasticity of wood -a figure of great value for structural purposes- in a non-destructive way through the analysis of acoustic signals. 
 
-It consists of a portable device capable of accurately measuring the delay between two signals in microseconds. Signals come from piezoelectric sensors, one sensor tagged as *emitter* and the other from the *receiver* sensor. These sensors are nailed on a standing tree or trunk and are separated a known distance through the longitudinal axis. The *emitter* is hammered and transmits the mechanic wave through the tree, which is picked by the *receiver*. The travel time can be used to measure the Modulus of Elasticity given the trunk's wood density. 
-This device can also measure the weight from a load cell and has an expansion port for future development.
-
+The project covers all the steps in the development of an electronic product: conception, specification of requirements, choice of architectures, components, topologies, etc., including circuit and PCB design, mechanical and product design, as well as manufacturing, assembly, firmware and verification of a prototype. 
