@@ -1,18 +1,20 @@
-# Bachelor's Thesis: *"Development of an acoustic measurement system of the Modulus of Elasticity in trees, logs and boards"*
+# Tree Inspection Kit (TIK) hardware
 
-This repository contains the publicly available documents of my bachelor thesis, with which I finished the Telecommunications Engineering degree at the Universidad de Granada, Spain. 
+This repository contains the hardware source from my bachelor's thesis in telecommunications engineering at the University of Granada, Spain, 2022. For the firmware, see this other repo: [Bachelor_Thesis_TIK_firmware](https://github.com/dpmj/Bachelor_Thesis_TIK_firmware).
 
-It has been developed with the help of the [GranaSAT Electronics Aerospace Group](https://granasat.ugr.es/) ([@granasat](https://github.com/granasat)) and [IDIE-ADIME](https://idie.ugr.es/idie-adime/) teams, and under the umbrella of the European [LIFE Wood for Future](https://life-woodforfuture.eu/en/) project. 
+This project marks the beginning of the development of a handheld device that can measure the modulus of elasticity of wood, a figure of great value for structural purposes, in a non-destructive way by analyzing acoustic signals. Developed with the help of the GranaSAT Electronics Aerospace Group and the IDIE-ADIME Institute, this project is part of the European LIFE Wood for Future initiative. The project encompasses every step in developing an electronic product, including conception, requirements specification, architecture and components selection, topology selection, circuit and PCB design, mechanical design, manufacturing, assembly, firmware, and prototype fabrication. 
 
-This project constitutes the first iteration that begins the development of a device capable of measuring the Modulus of Elasticity of wood -a figure of great value for structural purposes- in a non-destructive way through the analysis of acoustic signals. 
+Disclaimer: I'm not a software guy.
 
-The project covers all the steps in the development of an electronic product: conception, specification of requirements, choice of architectures, components, topologies, etc., including circuit and PCB design, mechanical and product design, as well as manufacturing, assembly, firmware and verification of a prototype. 
-
-
-## Thesis report
-
-Since the PDF file is too large for Github, you can view and download the report via:
-
-- Uncompressed version, publicly available at [Dropbox](https://www.dropbox.com/s/6najyfszekjbwn6/TFG%20Juan%20Del%20Pino%20Mena.pdf?dl=0).
-
-- Compressed version plus metadata and record, publicly available at [DigiBug](https://hdl.handle.net/10481/77129) (the institutional repository of the University of Granada).
+```bibtex
+@phdthesis{dpmj-tfg-2022,
+    title = {Development of an acoustic measurement system of the Modulus of Elasticity in trees, logs and boards},
+    author = {{Del Pino Mena}, Juan},
+    type = {Bachelor's thesis},
+    school = {Universidad de Granada},
+    year = {2022},
+    month = {9},
+    url = {https://hdl.handle.net/10481/80476},
+    doi = {https://doi.org/10.5281/zenodo.13935041}
+}
+```
