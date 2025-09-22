@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:36:58 On 07/06/2022
+
+Output: Gerber top solder only
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [TIK_PCB.PcbDoc]
+   Generated File[TIK_PCB.GTS]
+   Generated File[TIK_PCB.RUL]
+   Generated File[TIK_PCB.EXTREP]
+   Generated File[TIK_PCB.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:36:59 On 07/06/2022

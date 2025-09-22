@@ -1,0 +1,3389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="402.0499mm"
+   height="181.23993mm"
+   viewBox="0 0 402.0499 181.23992"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\Juano\Documents\Sync\TFG\Electronic\PCB\Handheld_TIK_PCB\ASSETS\power budget\power_budget_export.png"
+   inkscape:export-xdpi="252.7"
+   inkscape:export-ydpi="252.7"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.095833747"
+     inkscape:cx="-1257.3859"
+     inkscape:cy="-208.69475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath23">
+      <path
+         d="M 0,0.028 H 1140.774 V 566.021 H 0 Z"
+         clip-rule="evenodd"
+         id="path21" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(160.28126,-43.747536)">
+    <rect
+       id="rect5767"
+       width="402.02026"
+       height="181.23993"
+       x="-160.27138"
+       y="43.747536"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\Juano\Documents\Sync\TFG\Electronic\PCB\Handheld_TIK_PCB\ASSETS\power budget\rect5767.png"
+       inkscape:export-xdpi="252.7"
+       inkscape:export-ydpi="252.7" />
+    <g
+       id="g19"
+       clip-path="url(#clipPath23)"
+       transform="matrix(0.35277777,0,0,-0.35277777,-160.28126,243.4575)"
+       inkscape:export-filename="C:\Users\Juano\Documents\Sync\TFG\Electronic\PCB\Handheld_TIK_PCB\ASSETS\power budget\rect5767.png"
+       inkscape:export-xdpi="252.7"
+       inkscape:export-ydpi="252.7">
+      <path
+         d="m 0.028,534.954 h 546.86 v 31.153 H 0.028 Z"
+         style="fill:#e0e0e0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path25" />
+      <path
+         d="m 546.86,534.954 h 32.939 v 31.153 H 546.86 Z"
+         style="fill:#fff9c4;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path27" />
+      <path
+         d="m 579.77,534.954 h 84.699 v 31.153 H 579.77 Z"
+         style="fill:#c8e6c9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path29" />
+      <path
+         d="m 664.441,534.954 h 158.542 v 31.153 H 664.441 Z"
+         style="fill:#f8bbd0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path31" />
+      <path
+         d="m 822.954,534.954 h 158.542 v 31.153 H 822.954 Z"
+         style="fill:#bbdefb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path33" />
+      <path
+         d="m 981.468,534.954 h 158.117 v 31.153 H 981.468 Z"
+         style="fill:#e0e0e0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path35" />
+      <path
+         d="m 664.441,130.337 h 317.055 v 15.591 H 664.441 Z"
+         style="fill:#ffebee;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path37" />
+      <path
+         d="m 664.441,99.213 h 317.055 v 15.591 H 664.441 Z"
+         style="fill:#ffebee;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path39" />
+      <path
+         d="M 664.441,68.088 H 981.496 V 83.679 H 664.441 Z"
+         style="fill:#ffebee;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path41" />
+      <g
+         id="g43">
+        <path
+           d="M -0.057,566.022 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path45" />
+      </g>
+      <g
+         id="g47">
+        <path
+           d="M 0,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path49" />
+      </g>
+      <g
+         id="g51">
+        <path
+           d="M 130.904,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path53" />
+      </g>
+      <g
+         id="g55">
+        <path
+           d="M 272.806,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path57" />
+      </g>
+      <g
+         id="g59">
+        <path
+           d="M 546.888,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path61" />
+      </g>
+      <g
+         id="g63">
+        <path
+           d="M 579.912,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path65" />
+      </g>
+      <g
+         id="g67">
+        <path
+           d="M 664.498,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path69" />
+      </g>
+      <g
+         id="g71">
+        <path
+           d="M 823.011,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path73" />
+      </g>
+      <g
+         id="g75">
+        <path
+           d="M 981.609,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path77" />
+      </g>
+      <g
+         id="g79">
+        <path
+           d="M 1139.613,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path81" />
+      </g>
+      <g
+         id="g83">
+        <path
+           d="M 1139.613,566.079 V 52.356"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path85" />
+      </g>
+      <g
+         id="g87">
+        <path
+           d="M 664.441,550.431 H 981.666"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path89" />
+      </g>
+      <g
+         id="g91">
+        <path
+           d="M 743.811,550.488 V 534.869"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path93" />
+      </g>
+      <g
+         id="g95">
+        <path
+           d="M 902.296,550.488 V 534.869"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path97" />
+      </g>
+      <g
+         id="g99">
+        <path
+           d="M -0.057,534.926 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path101" />
+      </g>
+      <g
+         id="g103">
+        <path
+           d="M -0.057,519.335 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path105" />
+      </g>
+      <g
+         id="g107">
+        <path
+           d="M 130.847,503.83 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path109" />
+      </g>
+      <g
+         id="g111">
+        <path
+           d="M 130.847,488.211 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path113" />
+      </g>
+      <g
+         id="g115">
+        <path
+           d="M 130.847,472.62 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path117" />
+      </g>
+      <g
+         id="g119">
+        <path
+           d="M 130.847,457.115 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path121" />
+      </g>
+      <g
+         id="g123">
+        <path
+           d="M -0.057,441.524 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path125" />
+      </g>
+      <g
+         id="g127">
+        <path
+           d="M 743.811,441.581 V 425.877"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path129" />
+      </g>
+      <g
+         id="g131">
+        <path
+           d="M 902.296,441.581 V 425.877"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path133" />
+      </g>
+      <g
+         id="g135">
+        <path
+           d="M 130.847,425.934 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path137" />
+      </g>
+      <g
+         id="g139">
+        <path
+           d="M 130.847,410.428 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path141" />
+      </g>
+      <g
+         id="g143">
+        <path
+           d="M 130.847,394.809 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path145" />
+      </g>
+      <g
+         id="g147">
+        <path
+           d="M -0.057,379.332 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path149" />
+      </g>
+      <g
+         id="g151">
+        <path
+           d="M 743.811,379.389 V 363.657"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path153" />
+      </g>
+      <g
+         id="g155">
+        <path
+           d="M 902.296,379.389 V 363.657"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path157" />
+      </g>
+      <g
+         id="g159">
+        <path
+           d="M 130.847,363.713 H 981.666"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path161" />
+      </g>
+      <g
+         id="g163">
+        <path
+           d="M 130.847,348.123 H 981.666"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path165" />
+      </g>
+      <g
+         id="g167">
+        <path
+           d="M -0.057,332.617 H 981.666"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path169" />
+      </g>
+      <g
+         id="g171">
+        <path
+           d="M 743.811,332.674 V 301.351"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path173" />
+      </g>
+      <g
+         id="g175">
+        <path
+           d="M 130.847,317.027 H 981.666"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path177" />
+      </g>
+      <g
+         id="g179">
+        <path
+           d="M 902.296,317.083 V 301.351"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path181" />
+      </g>
+      <g
+         id="g183">
+        <path
+           d="M 130.847,301.408 H 981.666"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path185" />
+      </g>
+      <g
+         id="g187">
+        <path
+           d="M -0.057,285.931 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path189" />
+      </g>
+      <g
+         id="g191">
+        <path
+           d="M 743.811,285.987 V 254.778"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path193" />
+      </g>
+      <g
+         id="g195">
+        <path
+           d="M 902.296,285.987 V 254.778"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path197" />
+      </g>
+      <g
+         id="g199">
+        <path
+           d="M -0.057,270.312 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path201" />
+      </g>
+      <g
+         id="g203">
+        <path
+           d="M 130.847,254.835 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path205" />
+      </g>
+      <g
+         id="g207">
+        <path
+           d="M 130.847,239.216 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path209" />
+      </g>
+      <g
+         id="g211">
+        <path
+           d="M 130.847,223.625 H 981.666"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path213" />
+      </g>
+      <g
+         id="g215">
+        <path
+           d="M -0.057,208.12 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path217" />
+      </g>
+      <g
+         id="g219">
+        <path
+           d="M 743.811,208.176 V 192.472"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path221" />
+      </g>
+      <g
+         id="g223">
+        <path
+           d="M 902.296,208.176 V 192.472"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path225" />
+      </g>
+      <g
+         id="g227">
+        <path
+           d="M -0.057,192.529 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path229" />
+      </g>
+      <g
+         id="g231">
+        <path
+           d="M 130.847,176.91 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path233" />
+      </g>
+      <g
+         id="g235">
+        <path
+           d="M 130.847,161.433 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path237" />
+      </g>
+      <g
+         id="g239">
+        <path
+           d="M -0.057,145.814 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path241" />
+      </g>
+      <g
+         id="g243">
+        <path
+           d="M -0.057,130.309 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path245" />
+      </g>
+      <g
+         id="g247">
+        <path
+           d="M 743.811,130.365 V 114.661"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path249" />
+      </g>
+      <g
+         id="g251">
+        <path
+           d="M 902.296,130.365 V 114.661"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path253" />
+      </g>
+      <g
+         id="g255">
+        <path
+           d="M 130.847,114.718 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path257" />
+      </g>
+      <g
+         id="g259">
+        <path
+           d="M -0.057,99.128 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path261" />
+      </g>
+      <g
+         id="g263">
+        <path
+           d="M 130.847,83.622 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path265" />
+      </g>
+      <g
+         id="g267">
+        <path
+           d="M 130.847,68.031 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path269" />
+      </g>
+      <g
+         id="g271">
+        <path
+           d="M -0.057,52.413 H 1139.669"
+           style="fill:none;stroke:#000000;stroke-width:0.09999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path273" />
+      </g>
+      <g
+         id="g275">
+        <text
+           transform="matrix(1,0,0,-1,53.603,547.115)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text279"><tspan
+             x="0 6.0123382 8.7165384 13.818462 18.514755"
+             y="0"
+             sodipodi:role="line"
+             id="tspan277">Block</tspan></text>
+      </g>
+      <g
+         id="g281">
+        <text
+           transform="matrix(1,0,0,-1,177.392,547.115)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text285"><tspan
+             x="0 5.90417 11.006094 19.019541 24.51808 29.620005 35.01939 40.121315 45.520699"
+             y="0"
+             sodipodi:role="line"
+             id="tspan283">Component</tspan></text>
+      </g>
+      <g
+         id="g287">
+        <text
+           transform="matrix(1,0,0,-1,360.709,547.115)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text291"><tspan
+             x="0 6.300786 11.40271 15.90971 20.606005 24.211603 26.807636 32.306175 35.713467 38.309502 43.411423 48.81081 52.921192 58.825363 63.927288 69.326675 74.825211 77.421249 80.828537 83.424568 88.526497 93.92588"
+             y="0"
+             sodipodi:role="line"
+             id="tspan289">Description/Conditions</tspan></text>
+      </g>
+      <g
+         id="g293">
+        <text
+           transform="matrix(1,0,0,-1,552.387,547.115)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text297"><tspan
+             x="0 6.2106462 11.610032 14.206064 17.613356"
+             y="0"
+             sodipodi:role="line"
+             id="tspan295">Units</tspan></text>
+      </g>
+      <g
+         id="g299">
+        <text
+           transform="matrix(1,0,0,-1,583.795,547.115)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text303"><tspan
+             x="0 5.606708 11.006094 16.504635 22.003174 24.707375 29.511835 31.612099 36.416561 41.518482 44.222683 47.629974 52.740913 57.743683 62.845608 64.945869 67.947533 73.8517"
+             y="0"
+             sodipodi:role="line"
+             id="tspan301">Supply voltage (V)</tspan></text>
+      </g>
+      <g
+         id="g305">
+        <text
+           transform="matrix(1,0,0,-1,671.499,554.825)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text309"><tspan
+             x="0 5.90417 11.303556 14.909156 18.514755 23.61668 29.016066 32.423359 34.523621 39.219913 44.321838 49.721226 54.228226 59.627609 67.641052 73.139595 76.54689 79.142921 84.244843 89.644234 91.744492 97.243034 102.34496 105.95055 108.05082 113.4502 118.84959 121.44563 124.85291 126.95318 129.95483 135.46239 141.66402"
+             y="0"
+             sodipodi:role="line"
+             id="tspan307">Current consumption per unit (μA)</tspan></text>
+      </g>
+      <g
+         id="g311">
+        <text
+           transform="matrix(1,0,0,-1,842.598,554.825)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text315"><tspan
+             x="0 5.3002319 10.402156 13.809448 18.920385 21.624586 23.724848 29.223389 31.81942 36.32642 40.83342 43.429451 48.927994 54.038929 57.44622 62.548145 68.046684 70.14695 75.645485 80.747414 88.346214 93.448135 97.053741 99.153999 102.15566 107.66322 116.46989"
+             y="0"
+             sodipodi:role="line"
+             id="tspan313">Total dissipated power (μW)</tspan></text>
+      </g>
+      <g
+         id="g317">
+        <text
+           transform="matrix(1,0,0,-1,1048.592,547.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text321"><tspan
+             x="0 6.499094 11.40271 14.60268 19.60545"
+             y="0"
+             sodipodi:role="line"
+             id="tspan319">Notes</tspan></text>
+      </g>
+      <g
+         id="g323">
+        <text
+           transform="matrix(1,0,0,-1,688.791,539.32)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text327"><tspan
+             x="0 5.3002319 10.104694 15.603234 18.199266 22.895559 28.006498"
+             y="0"
+             sodipodi:role="line"
+             id="tspan325">Typical</tspan></text>
+      </g>
+      <g
+         id="g329">
+        <text
+           transform="matrix(1,0,0,-1,762.69,539.32)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text333"><tspan
+             x="0 7.4004941 12.511432 17.523216 20.119247 28.132694 33.532082"
+             y="0"
+             sodipodi:role="line"
+             id="tspan331">Maximum</tspan></text>
+      </g>
+      <g
+         id="g335">
+        <text
+           transform="matrix(1,0,0,-1,847.304,539.32)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text339"><tspan
+             x="0 5.3002319 10.104694 15.603234 18.199266 22.895559 28.006498"
+             y="0"
+             sodipodi:role="line"
+             id="tspan337">Typical</tspan></text>
+      </g>
+      <g
+         id="g341">
+        <text
+           transform="matrix(1,0,0,-1,921.203,539.32)"
+           style="font-variant:normal;font-weight:bold;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text345"><tspan
+             x="0 7.4004941 12.511432 17.523216 20.119247 28.132694 33.532082"
+             y="0"
+             sodipodi:role="line"
+             id="tspan343">Maximum</tspan></text>
+      </g>
+      <g
+         id="g347">
+        <text
+           transform="matrix(1,0,0,-1,0.992,523.729)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text351"><tspan
+             x="0 7.3103542 12.908048"
+             y="0"
+             sodipodi:role="line"
+             id="tspan349">MCU</tspan></text>
+      </g>
+      <g
+         id="g353">
+        <text
+           transform="matrix(1,0,0,-1,132.009,523.729)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text357"><tspan
+             x="0 5.1109381 10.41117 15.90971 21.218956 26.717497 30.314081 38.228374 44.132545 50.532482 56.842285 64.242775 67.839363 73.148613 78.647148"
+             y="0"
+             sodipodi:role="line"
+             id="tspan355">ESP32-WROOM-32D</tspan></text>
+      </g>
+      <g
+         id="g359">
+        <text
+           transform="matrix(1,0,0,-1,273.798,523.729)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text363"><tspan
+             x="0 7.3103542 12.908048 19.019541 21.119802 26.528202 28.628464 35.542202 37.840771 41.148911 46.052525 48.459263 53.362881 57.761711 62.160545 64.260803 68.767807 73.779587 81.684868 89.590149 91.996887 94.097145 101.4075 106.41928 111.62938 116.74031 119.14705 124.05067"
+             y="0"
+             sodipodi:role="line"
+             id="tspan361">MCU + wireless comm. Module</tspan></text>
+      </g>
+      <g
+         id="g365">
+        <text
+           transform="matrix(1,0,0,-1,573.392,523.729)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text369"><tspan
+             x="0"
+             y="0"
+             id="tspan367">1</tspan></text>
+      </g>
+      <g
+         id="g371">
+        <text
+           transform="matrix(1,0,0,-1,650.296,523.729)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text375"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan373">3.3</tspan></text>
+      </g>
+      <g
+         id="g377">
+        <text
+           transform="matrix(1,0,0,-1,727.795,523.729)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text381"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.325462 26.23074"
+             y="0"
+             sodipodi:role="line"
+             id="tspan379">500 mA</tspan></text>
+      </g>
+      <g
+         id="g383">
+        <text
+           transform="matrix(1,0,0,-1,890.589,523.729)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text387"><tspan
+             x="0 5.4985399 7.8061242 13.304664 15.404926"
+             y="0"
+             sodipodi:role="line"
+             id="tspan385">1.7 W</tspan></text>
+      </g>
+      <g
+         id="g389">
+        <text
+           transform="matrix(1,0,0,-1,993.288,523.729)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text393"><tspan
+             x="0 5.5976939 10.609478 14.007756 17.315893 22.219509 27.330448 30.530418 32.63068 37.02951 42.239605 44.538174 49.243481 54.147099 58.545929 60.646191 65.856285 70.967224 74.27536 76.573929 81.684868 86.480316 88.580582 95.494316 97.792885 101.10102 106.00464 108.41138 113.21584 117.71383 122.11266 124.21292 129.32385"
+             y="0"
+             sodipodi:role="line"
+             id="tspan391">Current spikes during wireless TX</tspan></text>
+      </g>
+      <g
+         id="g395">
+        <text
+           transform="matrix(1,0,0,-1,0.992,477.014)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text399"><tspan
+             x="0 5.4985399 10.510324 17.424063 22.327679 25.635817 27.736078 31.044216 35.848679 38.147247 40.553986"
+             y="0"
+             sodipodi:role="line"
+             id="tspan397">Power rails</tspan></text>
+      </g>
+      <g
+         id="g401">
+        <text
+           transform="matrix(1,0,0,-1,132.009,508.11)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text405"><tspan
+             x="0 5.7960019 11.294542 16.603788 22.102327 27.411573"
+             y="0"
+             sodipodi:role="line"
+             id="tspan403">AP3429</tspan></text>
+      </g>
+      <g
+         id="g407">
+        <text
+           transform="matrix(1,0,0,-1,273.798,508.11)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text411"><tspan
+             x="0 6.0123382 11.610032 15.017324 21.029661 26.627356 28.727617 34.631786 39.742725 44.249725 48.955032 51.055298 55.562298 60.574081 65.68502 70.092865 74.996483 78.304619 81.504585 86.408203 89.716339 91.816605 95.422203"
+             y="0"
+             sodipodi:role="line"
+             id="tspan409">DC/DC Buck converter IC</tspan></text>
+      </g>
+      <g
+         id="g413">
+        <text
+           transform="matrix(1,0,0,-1,573.392,508.11)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text417"><tspan
+             x="0"
+             y="0"
+             id="tspan415">1</tspan></text>
+      </g>
+      <g
+         id="g419">
+        <text
+           transform="matrix(1,0,0,-1,650.296,508.11)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text423"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan421">4.2</tspan></text>
+      </g>
+      <g
+         id="g425">
+        <text
+           transform="matrix(1,0,0,-1,731.792,508.11)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text429"><tspan
+             x="0 5.4985399 10.807786 12.908048 18.208281"
+             y="0"
+             sodipodi:role="line"
+             id="tspan427">90 μA</tspan></text>
+      </g>
+      <g
+         id="g431">
+        <text
+           transform="matrix(1,0,0,-1,886.592,508.11)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text435"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.325462 23.535555"
+             y="0"
+             sodipodi:role="line"
+             id="tspan433">378 μW</tspan></text>
+      </g>
+      <g
+         id="g437">
+        <text
+           transform="matrix(1,0,0,-1,132.009,492.633)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text441"><tspan
+             x="0 6.39994 11.907494 17.406034 22.904573 28.21382 33.71236 38.823299 45.322392 50.730793 56.139191 61.25013 66.658531"
+             y="0"
+             sodipodi:role="line"
+             id="tspan439">NCP562SQ18T1G</tspan></text>
+      </g>
+      <g
+         id="g443">
+        <text
+           transform="matrix(1,0,0,-1,273.798,492.633)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text447"><tspan
+             x="0 4.507 9.5187836 16.432522 20.029108 26.041447 29.349585 34.361366 39.571461 44.583244 49.694183 52.894154 54.994415 58.302551 63.206169 68.001617 73.112556 75.519295 80.323753 83.523727 88.535507 91.843643 93.943909 97.549507"
+             y="0"
+             sodipodi:role="line"
+             id="tspan445">Low-Dropout regulator IC</tspan></text>
+      </g>
+      <g
+         id="g449">
+        <text
+           transform="matrix(1,0,0,-1,573.392,492.633)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text453"><tspan
+             x="0"
+             y="0"
+             id="tspan451">1</tspan></text>
+      </g>
+      <g
+         id="g455">
+        <text
+           transform="matrix(1,0,0,-1,650.296,492.633)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text459"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan457">3.3</tspan></text>
+      </g>
+      <g
+         id="g461">
+        <text
+           transform="matrix(1,0,0,-1,734.513,492.633)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text465"><tspan
+             x="0 5.4985399 7.5988021 12.70974"
+             y="0"
+             sodipodi:role="line"
+             id="tspan463">3 μA</tspan></text>
+      </g>
+      <g
+         id="g467">
+        <text
+           transform="matrix(1,0,0,-1,888.094,492.633)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text471"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 20.533892"
+             y="0"
+             sodipodi:role="line"
+             id="tspan469">9.9 μW</tspan></text>
+      </g>
+      <g
+         id="g473">
+        <text
+           transform="matrix(1,0,0,-1,132.009,477.014)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text477"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.325462 22.931616 29.34057 31.440832 36.939373 39.039635 44.348881 49.84742 51.947681 56.652988 63.061943 65.162209 69.570053 74.473671 76.970543 80.170517 84.974976 89.680283 94.5839 96.684166 101.9844 104.28297 108.59166 110.89023 116.19046 121.09408"
+             y="0"
+             sodipodi:role="line"
+             id="tspan475">150 kΩ + 33 kΩ voltage divider</tspan></text>
+      </g>
+      <g
+         id="g479">
+        <text
+           transform="matrix(1,0,0,-1,273.798,477.014)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text483"><tspan
+             x="0 5.0117841 10.915954 13.016216 18.226309 20.524878 25.635817 27.736078 30.638586 35.542202 40.44582 45.65591 50.866001 55.670464 60.177464 64.882774 67.289513 69.389771 74.401558 76.700127 81.297264 86.200882 91.410973 93.511238 98.018234 103.03002 108.14096 112.53979 117.65073 125.55601 130.7661 133.96606 136.26463 141.27643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan481">FB pin feedback. Fixed consumption</tspan></text>
+      </g>
+      <g
+         id="g485">
+        <text
+           transform="matrix(1,0,0,-1,573.392,477.014)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text489"><tspan
+             x="0"
+             y="0"
+             id="tspan487">1</tspan></text>
+      </g>
+      <g
+         id="g491">
+        <text
+           transform="matrix(1,0,0,-1,650.296,477.014)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text495"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan493">3.3</tspan></text>
+      </g>
+      <g
+         id="g497">
+        <text
+           transform="matrix(1,0,0,-1,731.792,477.014)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text501"><tspan
+             x="0 5.4985399 10.807786 12.908048 18.208281"
+             y="0"
+             sodipodi:role="line"
+             id="tspan499">18 μA</tspan></text>
+      </g>
+      <g
+         id="g503">
+        <text
+           transform="matrix(1,0,0,-1,885.288,477.014)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text507"><tspan
+             x="0 5.4985399 10.807786 13.304664 18.613911 20.714172 26.014404"
+             y="0"
+             sodipodi:role="line"
+             id="tspan505">59.4 μW</tspan></text>
+      </g>
+      <g
+         id="g509">
+        <text
+           transform="matrix(1,0,0,-1,132.009,461.509)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text513"><tspan
+             x="0 2.803354 9.3024483 14.51254 17.613356 20.01108 25.022863 30.133802 34.839111 37.335987 40.139343 42.239605 47.539837 51.947681 57.247913 61.95322 66.352051 70.850037 72.950302 77.358147 82.261765 84.758644 87.958611 92.663918 97.558525 102.36298 104.55338 109.76348 111.96289 116.37074 118.66931 123.96954 128.87315 132.08214"
+             y="0"
+             sodipodi:role="line"
+             id="tspan511">[Optional] bypass voltage divider</tspan></text>
+      </g>
+      <g
+         id="g515">
+        <text
+           transform="matrix(1,0,0,-1,273.798,461.509)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text519"><tspan
+             x="0 5.7960019 10.194834 14.593666 19.704603 27.609882 29.908451 35.01939 39.814838 41.9151 47.323502 52.822041 58.230438 61.637733 67.046135 69.146393 76.060135 78.358704 81.55867 86.669609 88.769875 94.178268 99.58667 101.68694 106.39224 112.80119 114.90146 118.20959 123.11321 127.51205 129.81061 134.20944 137.40941 142.4212 145.72934"
+             y="0"
+             sodipodi:role="line"
+             id="tspan517">Assuming 3V3/2 with 10 kΩ resistors</tspan></text>
+      </g>
+      <g
+         id="g521">
+        <text
+           transform="matrix(1,0,0,-1,573.392,461.509)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text525"><tspan
+             x="0"
+             y="0"
+             id="tspan523">1</tspan></text>
+      </g>
+      <g
+         id="g527">
+        <text
+           transform="matrix(1,0,0,-1,650.296,461.509)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text531"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan529">3.3</tspan></text>
+      </g>
+      <g
+         id="g533">
+        <text
+           transform="matrix(1,0,0,-1,882.709,461.509)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text537"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.532784 24.031324 26.131586 31.242523"
+             y="0"
+             sodipodi:role="line"
+             id="tspan535">544.5 μW</tspan></text>
+      </g>
+      <g
+         id="g539">
+        <text
+           transform="matrix(1,0,0,-1,1007.887,461.509)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text543"><tspan
+             x="0 5.6968479 10.600464 15.711402 20.110233 22.408804 27.709036 32.612652 35.821636 37.921898 42.933681 48.044621 50.451359 55.048496 57.049606 59.348175 62.250683 64.350945 69.561035 74.572823 79.873055 84.983994 87.291573 92.18618 95.286995 100.19061"
+             y="0"
+             sodipodi:role="line"
+             id="tspan541">Consider only if populated</tspan></text>
+      </g>
+      <g
+         id="g545">
+        <text
+           transform="matrix(1,0,0,-1,132.009,445.918)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text549"><tspan
+             x="0 6.2106462 11.114262 16.31534 21.218956 24.42794 26.726509 31.233509 33.333771 38.832314 44.14156 49.640099 54.949345 57.049606 61.944206 65.153191 70.15596 75.059578 80.170517 82.270775 86.777779 91.987869"
+             y="0"
+             sodipodi:role="line"
+             id="tspan547">Generic 0805 green LED</tspan></text>
+      </g>
+      <g
+         id="g551">
+        <text
+           transform="matrix(1,0,0,-1,273.798,445.918)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text555"><tspan
+             x="0 5.7960019 10.194834 14.593666 19.704603 27.609882 29.908451 35.01939 39.814838 41.9151 47.413639 50.316147 52.416409 57.82481 59.925072 65.333473 70.832008 72.932274 79.142921 81.243179 86.651581 92.059982 94.160248 100.5692 102.66946 107.06829 111.97191 115.28004 117.57861 122.48223 126.88107 128.98132 132.28946 137.19308 141.59192 143.89049 148.28931 151.48929 156.50107"
+             y="0"
+             sodipodi:role="line"
+             id="tspan553">Assuming Vf = 3V &amp; 39 Ω series resistor</tspan></text>
+      </g>
+      <g
+         id="g557">
+        <text
+           transform="matrix(1,0,0,-1,573.392,445.918)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text561"><tspan
+             x="0"
+             y="0"
+             id="tspan559">1</tspan></text>
+      </g>
+      <g
+         id="g563">
+        <text
+           transform="matrix(1,0,0,-1,650.296,445.918)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text567"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan565">3.3</tspan></text>
+      </g>
+      <g
+         id="g569">
+        <text
+           transform="matrix(1,0,0,-1,729.298,445.918)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text573"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan571">7.7 mA</tspan></text>
+      </g>
+      <g
+         id="g575">
+        <text
+           transform="matrix(1,0,0,-1,884.013,445.918)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text579"><tspan
+             x="0 5.4084001 10.8168 13.223538 18.631939 20.732201 28.637478"
+             y="0"
+             sodipodi:role="line"
+             id="tspan577">25.4 mW</tspan></text>
+      </g>
+      <g
+         id="g581">
+        <text
+           transform="matrix(1,0,0,-1,1007.887,445.918)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text585"><tspan
+             x="0 5.6968479 10.600464 15.711402 20.110233 22.408804 27.709036 32.612652 35.821636 37.921898 42.933681 48.044621 50.451359 55.048496 57.049606 59.348175 62.250683 64.350945 69.561035 74.572823 79.873055 84.983994 87.291573 92.18618 95.286995 100.19061"
+             y="0"
+             sodipodi:role="line"
+             id="tspan583">Consider only if populated</tspan></text>
+      </g>
+      <g
+         id="g587">
+        <text
+           transform="matrix(1,0,0,-1,0.992,407.027)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text591"><tspan
+             x="0 5.90417 10.708632 13.908602 17.108572 22.012188 25.320326 29.818312 31.918573 38.129219 40.229481 44.736481 49.84742 53.15556 56.463696 61.367313 66.478249 69.678223 71.778481 76.177315 81.080933 86.191872 90.590698"
+             y="0"
+             sodipodi:role="line"
+             id="tspan589">Battery &amp; current sense</tspan></text>
+      </g>
+      <g
+         id="g593">
+        <text
+           transform="matrix(1,0,0,-1,132.009,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text597"><tspan
+             x="0 3.6056001 10.00554 15.711402 21.209942 26.519188"
+             y="0"
+             sodipodi:role="line"
+             id="tspan595">INA219</tspan></text>
+      </g>
+      <g
+         id="g599">
+        <text
+           transform="matrix(1,0,0,-1,273.798,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text603"><tspan
+             x="0 5.4985399 10.510324 12.917062 16.117031 20.921494 25.716942 30.620558 32.720821 38.931465 41.031727 45.538727 50.649666 53.957806 57.265942 62.169559 67.280495 70.480469 72.580727 76.979561 81.883179 86.994118 91.392944 96.296562 98.396828 102.00243"
+             y="0"
+             sodipodi:role="line"
+             id="tspan601">Voltage &amp; current sense IC</tspan></text>
+      </g>
+      <g
+         id="g605">
+        <text
+           transform="matrix(1,0,0,-1,573.392,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text609"><tspan
+             x="0"
+             y="0"
+             id="tspan607">1</tspan></text>
+      </g>
+      <g
+         id="g611">
+        <text
+           transform="matrix(1,0,0,-1,650.296,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text615"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan613">4.2</tspan></text>
+      </g>
+      <g
+         id="g617">
+        <text
+           transform="matrix(1,0,0,-1,713.792,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text621"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan619">0.7 mA</tspan></text>
+      </g>
+      <g
+         id="g623">
+        <text
+           transform="matrix(1,0,0,-1,800.787,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text627"><tspan
+             x="0 5.4985399 7.5988021 15.41394"
+             y="0"
+             sodipodi:role="line"
+             id="tspan625">1 mA</tspan></text>
+      </g>
+      <g
+         id="g629">
+        <text
+           transform="matrix(1,0,0,-1,877.89,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text633"><tspan
+             x="0 5.4084001 7.5086622 15.41394"
+             y="0"
+             sodipodi:role="line"
+             id="tspan631">3 mW</tspan></text>
+      </g>
+      <g
+         id="g635">
+        <text
+           transform="matrix(1,0,0,-1,132.009,414.822)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text639"><tspan
+             x="0 6.2106462 11.114262 16.31534 21.218956 24.42794 26.726509 31.233509 33.333771 38.832314 44.14156 49.640099 54.949345 57.049606 61.944206 65.153191 70.15596 75.059578 80.170517 82.270775 86.777779 91.987869"
+             y="0"
+             sodipodi:role="line"
+             id="tspan637">Generic 0805 green LED</tspan></text>
+      </g>
+      <g
+         id="g641">
+        <text
+           transform="matrix(1,0,0,-1,273.798,414.822)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text645"><tspan
+             x="0 5.7960019 10.194834 14.593666 19.704603 27.609882 29.908451 35.01939 39.814838 41.9151 47.413639 50.316147 52.416409 57.82481 59.925072 65.333473 70.832008 72.932274 79.142921 81.243179 86.651581 92.059982 97.468384 99.568642 105.9776 108.07786 112.47669 117.38031 120.68845 122.98701 127.89063 132.28946 134.38972 137.69786 142.60149 147.00031 149.29889 153.69771 156.89769 161.90947"
+             y="0"
+             sodipodi:role="line"
+             id="tspan643">Assuming Vf = 3V &amp; 220 Ω series resistor</tspan></text>
+      </g>
+      <g
+         id="g647">
+        <text
+           transform="matrix(1,0,0,-1,573.392,414.822)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text651"><tspan
+             x="0"
+             y="0"
+             id="tspan649">1</tspan></text>
+      </g>
+      <g
+         id="g653">
+        <text
+           transform="matrix(1,0,0,-1,650.296,414.822)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text657"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan655">5.5</tspan></text>
+      </g>
+      <g
+         id="g659">
+        <text
+           transform="matrix(1,0,0,-1,726.605,414.822)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text663"><tspan
+             x="0 5.4084001 10.8168 13.223538 18.631939 20.732201 28.637478"
+             y="0"
+             sodipodi:role="line"
+             id="tspan661">11.4 mA</tspan></text>
+      </g>
+      <g
+         id="g665">
+        <text
+           transform="matrix(1,0,0,-1,884.013,414.822)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text669"><tspan
+             x="0 5.4084001 10.8168 13.223538 18.631939 20.732201 28.637478"
+             y="0"
+             sodipodi:role="line"
+             id="tspan667">62.5 mW</tspan></text>
+      </g>
+      <g
+         id="g671">
+        <text
+           transform="matrix(1,0,0,-1,1007.887,414.822)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text675"><tspan
+             x="0 5.6968479 10.600464 15.711402 20.110233 22.408804 27.709036 32.612652 35.821636 37.921898 42.933681 48.044621 50.451359 55.048496 57.049606 59.348175 62.250683 64.350945 69.561035 74.572823 79.873055 84.983994 87.291573 92.18618 95.286995 100.19061"
+             y="0"
+             sodipodi:role="line"
+             id="tspan673">Consider only if populated</tspan></text>
+      </g>
+      <g
+         id="g677">
+        <text
+           transform="matrix(1,0,0,-1,132.009,399.231)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text681"><tspan
+             x="0 6.2106462 11.114262 16.31534 21.218956 24.42794 26.726509 31.233509 33.333771 38.832314 44.14156 49.640099 54.949345 57.049606 60.447884 65.351501 70.561592 72.562698 77.159843 82.270775"
+             y="0"
+             sodipodi:role="line"
+             id="tspan679">Generic 0805 red LED</tspan></text>
+      </g>
+      <g
+         id="g683">
+        <text
+           transform="matrix(1,0,0,-1,273.798,399.231)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text687"><tspan
+             x="0 5.7960019 10.194834 14.593666 19.704603 27.609882 29.908451 35.01939 39.814838 41.9151 47.413639 50.316147 52.416409 57.82481 59.925072 65.333473 70.832008 72.932274 79.142921 81.243179 86.651581 92.059982 97.468384 99.568642 105.9776 108.07786 112.47669 117.38031 120.68845 122.98701 127.89063 132.28946 134.38972 137.69786 142.60149 147.00031 149.29889 153.69771 156.89769 161.90947"
+             y="0"
+             sodipodi:role="line"
+             id="tspan685">Assuming Vf = 2V &amp; 470 Ω series resistor</tspan></text>
+      </g>
+      <g
+         id="g689">
+        <text
+           transform="matrix(1,0,0,-1,573.392,399.231)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text693"><tspan
+             x="0"
+             y="0"
+             id="tspan691">1</tspan></text>
+      </g>
+      <g
+         id="g695">
+        <text
+           transform="matrix(1,0,0,-1,650.296,399.231)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text699"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan697">5.5</tspan></text>
+      </g>
+      <g
+         id="g701">
+        <text
+           transform="matrix(1,0,0,-1,729.298,399.231)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text705"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan703">7.5 mA</tspan></text>
+      </g>
+      <g
+         id="g707">
+        <text
+           transform="matrix(1,0,0,-1,887.896,399.231)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text711"><tspan
+             x="0 5.4084001 10.8168 12.917062 20.82234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan709">41 mW</tspan></text>
+      </g>
+      <g
+         id="g713">
+        <text
+           transform="matrix(1,0,0,-1,1007.887,399.231)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text717"><tspan
+             x="0 5.6968479 10.600464 15.711402 20.110233 22.408804 27.709036 32.612652 35.821636 37.921898 42.933681 48.044621 50.451359 55.048496 57.049606 59.348175 62.250683 64.350945 69.561035 74.572823 79.873055 84.983994 87.291573 92.18618 95.286995 100.19061"
+             y="0"
+             sodipodi:role="line"
+             id="tspan715">Consider only if populated</tspan></text>
+      </g>
+      <g
+         id="g719">
+        <text
+           transform="matrix(1,0,0,-1,132.009,383.613)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text723"><tspan
+             x="0 3.6056001 9.0139999 14.611694 16.612803 21.913034 27.023972 29.331556 31.828434 35.425018 40.535957 45.646896 47.747158 51.145435 56.049053 60.447884 62.746452 67.055145 70.354271 75.257889"
+             y="0"
+             sodipodi:role="line"
+             id="tspan721">I2C pull-up resistor</tspan></text>
+      </g>
+      <g
+         id="g725">
+        <text
+           transform="matrix(1,0,0,-1,273.798,383.613)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text729"><tspan
+             x="0 5.7960019 10.194834 14.593666 19.704603 27.609882 29.908451 35.01939 39.814838 41.9151 44.321838 46.620407 51.731346 56.63496 58.735226 61.14196 66.045578 70.453423 75.35704 77.763779 79.864037 82.162613 86.56144 88.661705 93.168701 99.568642 107.58209 109.98883 112.08909 119.00283 121.3014 124.50137 129.6123 131.71257 137.12097 139.52771 144.93611 149.64142 156.05037 158.15063 161.45877 166.36238 170.76122 173.05978 177.45862 180.65858 185.67036 188.97852"
+             y="0"
+             sodipodi:role="line"
+             id="tspan727">Assuming line level is LOW, with 4.7kΩ resistors</tspan></text>
+      </g>
+      <g
+         id="g731">
+        <text
+           transform="matrix(1,0,0,-1,573.392,383.613)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text735"><tspan
+             x="0"
+             y="0"
+             id="tspan733">2</tspan></text>
+      </g>
+      <g
+         id="g737">
+        <text
+           transform="matrix(1,0,0,-1,650.296,383.613)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text741"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan739">3.3</tspan></text>
+      </g>
+      <g
+         id="g743">
+        <text
+           transform="matrix(1,0,0,-1,729.298,383.613)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text747"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan745">0.7 mA</tspan></text>
+      </g>
+      <g
+         id="g749">
+        <text
+           transform="matrix(1,0,0,-1,886.706,383.613)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text753"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan751">4.6 mW</tspan></text>
+      </g>
+      <g
+         id="g755">
+        <text
+           transform="matrix(1,0,0,-1,0.992,352.516)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text759"><tspan
+             x="0 2.8934939 9.2934341 14.503526 17.703497 20.002066 25.013849 30.124788 34.929249 37.335987 40.229481 42.329742 48.729683 51.028255 58.338608 64.738548 66.838814 71.34581 76.456749 81.261208 84.569351 89.364799 94.26841"
+             y="0"
+             sodipodi:role="line"
+             id="tspan757">[Optional] NiMH charger</tspan></text>
+      </g>
+      <g
+         id="g761">
+        <text
+           transform="matrix(1,0,0,-1,132.009,368.135)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text765"><tspan
+             x="0 4.507 9.617938 15.125492 20.624031 25.933277 31.431818 36.741062 42.041294 47.053082"
+             y="0"
+             sodipodi:role="line"
+             id="tspan763">LTC4060EFE</tspan></text>
+      </g>
+      <g
+         id="g767">
+        <text
+           transform="matrix(1,0,0,-1,273.798,368.135)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text771"><tspan
+             x="0 6.39994 8.6985102 16.008863 22.408804 25.816095 32.216038 34.514606 40.112301 45.322392 47.422653 51.929653 57.040592 61.845055 65.153191 69.948639 74.852257 78.160393 80.260658 83.866257"
+             y="0"
+             sodipodi:role="line"
+             id="tspan769">NiMH/NiCd charger IC</tspan></text>
+      </g>
+      <g
+         id="g773">
+        <text
+           transform="matrix(1,0,0,-1,573.392,368.135)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text777"><tspan
+             x="0"
+             y="0"
+             id="tspan775">1</tspan></text>
+      </g>
+      <g
+         id="g779">
+        <text
+           transform="matrix(1,0,0,-1,650.296,368.135)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text783"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan781">5.5</tspan></text>
+      </g>
+      <g
+         id="g785">
+        <text
+           transform="matrix(1,0,0,-1,713.792,368.135)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text789"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan787">2.9 mA</tspan></text>
+      </g>
+      <g
+         id="g791">
+        <text
+           transform="matrix(1,0,0,-1,792.992,368.135)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text795"><tspan
+             x="0 5.4985399 7.8061242 13.304664 15.404926 23.220064"
+             y="0"
+             sodipodi:role="line"
+             id="tspan793">4.3 mA</tspan></text>
+      </g>
+      <g
+         id="g797">
+        <text
+           transform="matrix(1,0,0,-1,872.504,368.135)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text801"><tspan
+             x="0 5.4084001 10.8168 12.917062 20.82234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan799">16 mW</tspan></text>
+      </g>
+      <g
+         id="g803">
+        <text
+           transform="matrix(1,0,0,-1,943.994,368.135)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text807"><tspan
+             x="0 5.4084001 10.8168 13.223538 18.631939 20.732201 28.637478"
+             y="0"
+             sodipodi:role="line"
+             id="tspan805">23.7 mW</tspan></text>
+      </g>
+      <g
+         id="g809">
+        <text
+           transform="matrix(1,0,0,-1,132.009,352.516)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text813"><tspan
+             x="0 7.3103542 13.223538 17.820679 23.319218 28.628464"
+             y="0"
+             sodipodi:role="line"
+             id="tspan811">MDJ201</tspan></text>
+      </g>
+      <g
+         id="g815">
+        <text
+           transform="matrix(1,0,0,-1,273.798,352.516)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text819"><tspan
+             x="0 5.4985399 10.510324 17.424063 22.327679 25.635817 27.736078 33.234619 39.63456 45.133099 47.23336 53.137531 57.734669 62.845608 65.252342 67.352608 70.958206 75.46521 80.36882 85.777222 91.185623 93.592361 99.000763 104.40916 106.50942 112.30543 114.71217 116.81242 120.41803 125.62812 130.53174 135.94014 141.34854 146.75693 152.16533 160.07062 165.86661 168.27335 170.37361 175.87215 180.37915 185.28278 190.69118 196.09956 198.5063 203.9147 209.41325 211.81999 213.92024 219.41879 224.62888 229.5325 234.9409 240.34929 242.75603 248.16443 250.26469"
+             y="0"
+             sodipodi:role="line"
+             id="tspan817">Power PNP BJT. Ice=0.95 A, Ibe=120mA, Vce=1.8V, Vbe=0.7 V</tspan></text>
+      </g>
+      <g
+         id="g821">
+        <text
+           transform="matrix(1,0,0,-1,573.392,352.516)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text825"><tspan
+             x="0"
+             y="0"
+             id="tspan823">1</tspan></text>
+      </g>
+      <g
+         id="g827">
+        <text
+           transform="matrix(1,0,0,-1,656.306,352.516)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text831"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan829">--</tspan></text>
+      </g>
+      <g
+         id="g833">
+        <text
+           transform="matrix(1,0,0,-1,740.211,352.516)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text837"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan835">--</tspan></text>
+      </g>
+      <g
+         id="g839">
+        <text
+           transform="matrix(1,0,0,-1,132.009,337.011)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text843"><tspan
+             x="0 5.4084001 7.7159839 13.214524 18.523769 20.624031 25.419479 31.828434 33.928696 39.237942 41.428345 47.738144 52.849083 58.545929 60.646191 65.054039 69.957657 72.364395 75.663513 80.36882 85.263428 90.167046 92.267303 97.477394 99.676811 104.08466 106.48238 111.69247 116.59609"
+             y="0"
+             sodipodi:role="line"
+             id="tspan841">4.42 kΩ + NTC voltage divider</tspan></text>
+      </g>
+      <g
+         id="g845">
+        <text
+           transform="matrix(1,0,0,-1,273.798,337.011)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text849"><tspan
+             x="0 6.39994 11.510878 17.108572 19.208834 24.418926 26.717497 31.828434 34.235172 36.335434 42.131435 46.53027 50.9291 56.040039 63.945316 66.243889 71.35482 76.150269 78.250534 84.650475 89.761414 95.359108 97.459366 102.26383 105.4638 107.56406 112.97247 118.38086 121.97745 127.57514 129.6754 132.67706 138.08546 140.4922 145.9006 151.30901 153.40927 158.11458 164.52353"
+             y="0"
+             sodipodi:role="line"
+             id="tspan847">NTC pin. Assuming NTC at 50ºC (3.54 kΩ)</tspan></text>
+      </g>
+      <g
+         id="g851">
+        <text
+           transform="matrix(1,0,0,-1,573.392,337.011)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text855"><tspan
+             x="0"
+             y="0"
+             id="tspan853">1</tspan></text>
+      </g>
+      <g
+         id="g857">
+        <text
+           transform="matrix(1,0,0,-1,650.296,337.011)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text861"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan859">5.5</tspan></text>
+      </g>
+      <g
+         id="g863">
+        <text
+           transform="matrix(1,0,0,-1,729.099,337.011)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text867"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.325462 23.535555"
+             y="0"
+             sodipodi:role="line"
+             id="tspan865">691 μA</tspan></text>
+      </g>
+      <g
+         id="g869">
+        <text
+           transform="matrix(1,0,0,-1,886.706,337.011)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text873"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan871">3.8 mW</tspan></text>
+      </g>
+      <g
+         id="g875">
+        <text
+           transform="matrix(1,0,0,-1,0.992,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text879"><tspan
+             x="0 2.8934939 9.2934341 14.503526 17.703497 20.002066 25.013849 30.124788 34.929249 37.335987 40.229481 42.329742 46.836742 49.135315 52.731899 56.337502 61.349285 66.46022 69.867516 74.374512 76.67308 80.269669 85.768211 90.779991 92.880257 97.387253 102.49819 107.30266 110.61079 115.40624 120.30986"
+             y="0"
+             sodipodi:role="line"
+             id="tspan877">[Optional] Li-Ion/Li-Po charger</tspan></text>
+      </g>
+      <g
+         id="g881">
+        <text
+           transform="matrix(1,0,0,-1,132.009,321.42)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text885"><tspan
+             x="0 5.1109381 10.609478 15.918724 21.417265 26.726509"
+             y="0"
+             sodipodi:role="line"
+             id="tspan883">TP4056</tspan></text>
+      </g>
+      <g
+         id="g887">
+        <text
+           transform="matrix(1,0,0,-1,273.798,321.42)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text891"><tspan
+             x="0 4.507 6.8055701 10.402156 14.007756 19.019541 24.130478 27.537769 32.044769 34.343342 39.841881 44.853664 46.953926 51.460926 56.571865 61.376328 64.684464 69.479912 74.38353 77.691666 79.791931 83.39753 88.995224 91.401962 93.50222 99.000763 104.21085 109.32179 113.72063 117.31721 122.81575 128.02585 132.83031 136.03027 141.43867 146.84708 149.25381 154.66222 156.76247 162.26102 164.66776 166.76802 170.37361 175.58371 180.38817 183.58813 188.99654 194.40494 196.5052"
+             y="0"
+             sodipodi:role="line"
+             id="tspan889">Li-Ion/LiPo charger IC, Vbus-Vbat=1.8 V, Ibat=1 A</tspan></text>
+      </g>
+      <g
+         id="g893">
+        <text
+           transform="matrix(1,0,0,-1,573.392,321.42)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text897"><tspan
+             x="0"
+             y="0"
+             id="tspan895">1</tspan></text>
+      </g>
+      <g
+         id="g899">
+        <text
+           transform="matrix(1,0,0,-1,650.296,321.42)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text903"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan901">5.5</tspan></text>
+      </g>
+      <g
+         id="g905">
+        <text
+           transform="matrix(1,0,0,-1,713.509,321.42)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text909"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.325462 23.535555"
+             y="0"
+             sodipodi:role="line"
+             id="tspan907">150 μA</tspan></text>
+      </g>
+      <g
+         id="g911">
+        <text
+           transform="matrix(1,0,0,-1,792.709,321.42)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text915"><tspan
+             x="0 5.4985399 10.807786 16.306326 18.307434 23.517527"
+             y="0"
+             sodipodi:role="line"
+             id="tspan913">500 μA</tspan></text>
+      </g>
+      <g
+         id="g917">
+        <text
+           transform="matrix(1,0,0,-1,854.787,321.42)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text921"><tspan
+             x="0 5.4985399 7.8061242 13.304664 21.218956 23.319218 28.727617 30.91802 36.227264 38.724144 44.03339 46.133652 54.038929 62.052376 64.152641 69.561035 71.661301 77.069702 79.47644 84.974976 87.075241"
+             y="0"
+             sodipodi:role="line"
+             id="tspan919">1.8W + 2.8 mW ≈ 1.8 W</tspan></text>
+      </g>
+      <g
+         id="g923">
+        <text
+           transform="matrix(1,0,0,-1,132.009,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text927"><tspan
+             x="0 6.0123382 14.025784 19.33503 24.83357"
+             y="0"
+             sodipodi:role="line"
+             id="tspan925">DW01A</tspan></text>
+      </g>
+      <g
+         id="g929">
+        <text
+           transform="matrix(1,0,0,-1,273.798,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text933"><tspan
+             x="0 5.90417 10.708632 13.908602 17.108572 22.012188 25.320326 29.818312 31.918573 37.128666 40.436806 45.448589 48.64856 53.552174 58.059174 61.259144 63.557713 68.569496 73.680435 75.780701 79.386299"
+             y="0"
+             sodipodi:role="line"
+             id="tspan931">Battery protection IC</tspan></text>
+      </g>
+      <g
+         id="g935">
+        <text
+           transform="matrix(1,0,0,-1,573.392,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text939"><tspan
+             x="0"
+             y="0"
+             id="tspan937">1</tspan></text>
+      </g>
+      <g
+         id="g941">
+        <text
+           transform="matrix(1,0,0,-1,650.296,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text945"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan943">4.2</tspan></text>
+      </g>
+      <g
+         id="g947">
+        <text
+           transform="matrix(1,0,0,-1,724.309,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text951"><tspan
+             x="0 5.4084001 7.5086622 12.718754"
+             y="0"
+             sodipodi:role="line"
+             id="tspan949">3 μA</tspan></text>
+      </g>
+      <g
+         id="g953">
+        <text
+           transform="matrix(1,0,0,-1,803.509,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text957"><tspan
+             x="0 5.4985399 7.4996481 12.70974"
+             y="0"
+             sodipodi:role="line"
+             id="tspan955">6 μA</tspan></text>
+      </g>
+      <g
+         id="g959">
+        <text
+           transform="matrix(1,0,0,-1,132.009,290.324)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text963"><tspan
+             x="0 4.903616 10.203848 15.513094 21.011635 26.320881"
+             y="0"
+             sodipodi:role="line"
+             id="tspan961">FS825A</tspan></text>
+      </g>
+      <g
+         id="g965">
+        <text
+           transform="matrix(1,0,0,-1,273.798,290.324)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text969"><tspan
+             x="0 6.0123382 11.123276 15.927738 18.334476 20.434738 25.644831 30.656614 37.570351 42.473969 45.782104 47.882366 54.282307 61.592663 67.992599 73.202698 75.609428 77.709694 83.505699 88.71579 93.114616 96.11628 101.12807 106.23901 109.24067 114.64906 120.05746 125.46587 127.56613 135.47141 141.88036 144.28709 146.38736 149.99297 155.20305 160.00751 163.20749 168.61589 174.02428 176.12454"
+             y="0"
+             sodipodi:role="line"
+             id="tspan967">Dual power NMOS, Rds(on)=25 mΩ, Ibat=1 A</tspan></text>
+      </g>
+      <g
+         id="g971">
+        <text
+           transform="matrix(1,0,0,-1,573.392,290.324)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text975"><tspan
+             x="0"
+             y="0"
+             id="tspan973">1</tspan></text>
+      </g>
+      <g
+         id="g977">
+        <text
+           transform="matrix(1,0,0,-1,656.306,290.324)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text981"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan979">--</tspan></text>
+      </g>
+      <g
+         id="g983">
+        <text
+           transform="matrix(1,0,0,-1,740.211,290.324)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text987"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan985">--</tspan></text>
+      </g>
+      <g
+         id="g989">
+        <text
+           transform="matrix(1,0,0,-1,860.91,290.324)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text993"><tspan
+             x="0 5.4084001 10.8168 12.917062 20.82234 28.835787 30.936049 33.93771 39.1478 44.159588 47.359554 52.470493 54.570755 60.970695 68.281052 74.680992 79.891083"
+             y="0"
+             sodipodi:role="line"
+             id="tspan991">50 mW (both NMOS)</tspan></text>
+      </g>
+      <g
+         id="g995">
+        <text
+           transform="matrix(1,0,0,-1,0.992,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text999"><tspan
+             x="0 6.1114922 11.321584 17.225754 19.326015 23.833015 28.844801 33.955738 39.066677 43.970291 48.477291 51.677261 56.689045"
+             y="0"
+             sodipodi:role="line"
+             id="tspan997">USB connector</tspan></text>
+      </g>
+      <g
+         id="g1001">
+        <text
+           transform="matrix(1,0,0,-1,132.009,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1005"><tspan
+             x="0 6.0123382 11.31257 17.21674 21.72374 27.321434 32.729836 36.32642 41.734821 46.944912 52.542606"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1003">USBLC6-2SC6</tspan></text>
+      </g>
+      <g
+         id="g1007">
+        <text
+           transform="matrix(1,0,0,-1,273.798,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1011"><tspan
+             x="0 6.1114922 11.321584 17.225754 19.326015 24.536108 29.746201 35.758537 37.858799 43.068893 46.377029 51.388813 54.588783 59.492401 63.999401 67.199371 69.49794 74.509727 79.620659 81.720924 85.326523"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1009">USB ESD protection IC</tspan></text>
+      </g>
+      <g
+         id="g1013">
+        <text
+           transform="matrix(1,0,0,-1,573.392,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1017"><tspan
+             x="0"
+             y="0"
+             id="tspan1015">1</tspan></text>
+      </g>
+      <g
+         id="g1019">
+        <text
+           transform="matrix(1,0,0,-1,650.296,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1023"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1021">5.5</tspan></text>
+      </g>
+      <g
+         id="g1025">
+        <text
+           transform="matrix(1,0,0,-1,719.008,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1029"><tspan
+             x="0 5.4084001 10.8168 12.917062 18.028"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1027">10 nA</tspan></text>
+      </g>
+      <g
+         id="g1031">
+        <text
+           transform="matrix(1,0,0,-1,792.907,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1035"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.325462 23.436399"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1033">150 nA</tspan></text>
+      </g>
+      <g
+         id="g1037">
+        <text
+           transform="matrix(1,0,0,-1,875.31,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1041"><tspan
+             x="0 5.4084001 10.8168 12.917062 18.028"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1039">55 nW</tspan></text>
+      </g>
+      <g
+         id="g1043">
+        <text
+           transform="matrix(1,0,0,-1,949.209,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1047"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.325462 23.436399"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1045">825 nW</tspan></text>
+      </g>
+      <g
+         id="g1049">
+        <text
+           transform="matrix(1,0,0,-1,989.802,274.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1053"><tspan
+             x="0 5.5976939 10.609478 15.720416 20.119247 22.417818 27.627911 32.531525 35.839664 37.939926 42.95171 48.062649 50.469387 54.967373 57.067635 63.981373 69.092308 73.995926 79.106865 81.207123 87.318619 92.528709 98.432877 100.53314 102.83171 107.23055 109.3308 114.5409 116.94764 122.05857 126.85402 131.64948 136.55309"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1051">Consider only when USB is plugged</tspan></text>
+      </g>
+      <g
+         id="g1055">
+        <text
+           transform="matrix(1,0,0,-1,0.992,235.814)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1059"><tspan
+             x="0 5.4985399 8.8066778 13.818462 18.613911 21.922049 26.726509 34.631786 42.537067 44.835636 49.946575"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1057">Programming</tspan></text>
+      </g>
+      <g
+         id="g1061">
+        <text
+           transform="matrix(1,0,0,-1,132.009,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1065"><tspan
+             x="0 5.5976939 11.907494 17.406034 22.715281 28.21382"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1063">CH340C</tspan></text>
+      </g>
+      <g
+         id="g1067">
+        <text
+           transform="matrix(1,0,0,-1,273.798,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1071"><tspan
+             x="0 6.1114922 11.321584 17.225754 19.326015 22.525986 27.537769 29.638033 35.749523 41.545525 47.34153 52.452465 54.552727 59.059727 64.07151 69.182449 73.590294 78.493912 81.802048 85.002022 89.90564 93.213776 95.314034 98.91964"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1069">USB to UART converter IC</tspan></text>
+      </g>
+      <g
+         id="g1073">
+        <text
+           transform="matrix(1,0,0,-1,573.392,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1077"><tspan
+             x="0"
+             y="0"
+             id="tspan1075">1</tspan></text>
+      </g>
+      <g
+         id="g1079">
+        <text
+           transform="matrix(1,0,0,-1,650.296,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1083"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1081">3.3</tspan></text>
+      </g>
+      <g
+         id="g1085">
+        <text
+           transform="matrix(1,0,0,-1,716.202,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1089"><tspan
+             x="0 5.4084001 10.8168 12.917062 20.82234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1087">12 mA</tspan></text>
+      </g>
+      <g
+         id="g1091">
+        <text
+           transform="matrix(1,0,0,-1,795.487,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1095"><tspan
+             x="0 5.4084001 10.8168 12.917062 20.82234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1093">30 mA</tspan></text>
+      </g>
+      <g
+         id="g1097">
+        <text
+           transform="matrix(1,0,0,-1,864.709,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1101"><tspan
+             x="0 5.4084001 10.8168 13.223538 18.631939 20.732201 28.637478"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1099">39.6 mW</tspan></text>
+      </g>
+      <g
+         id="g1103">
+        <text
+           transform="matrix(1,0,0,-1,951.789,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1107"><tspan
+             x="0 5.4084001 10.8168 12.917062 20.82234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1105">99 mW</tspan></text>
+      </g>
+      <g
+         id="g1109">
+        <text
+           transform="matrix(1,0,0,-1,997.994,259.115)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1113"><tspan
+             x="0 8.0134459 13.02523 16.333368 20.732201 23.932171 26.032433 30.539433 35.343895 39.742725 44.646343 46.746605 53.660343 58.771278 63.674896 68.785835 70.886093 76.096191 79.404327 84.416107 89.211555 92.519699 97.324158 105.22944 113.13471 115.43328 120.54422"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1111">Worst case when programming</tspan></text>
+      </g>
+      <g
+         id="g1115">
+        <text
+           transform="matrix(1,0,0,-1,132.009,243.609)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1119"><tspan
+             x="0 5.4084001 11.7182 17.21674 22.525986 28.024527"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1117">2N7002</tspan></text>
+      </g>
+      <g
+         id="g1121">
+        <text
+           transform="matrix(1,0,0,-1,273.798,243.609)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1125"><tspan
+             x="0 6.300786 8.7075243 14.206064 16.612803 18.713064 25.113005 32.423359 38.823299 44.03339 46.440128 48.54039 52.145988 57.356083 62.764481 68.172882 70.273148 76.069145 78.475883 80.576149 86.074684 91.284775 95.683609 101.09201 106.50041 108.90715 114.31555 116.41581 121.91435 124.32109 126.42135 130.02695 135.23705 139.63588 145.04428 150.45267 155.86107 161.26947 163.36974 168.57983 174.37582 176.47609 179.47775 184.68785 189.79878 193.10692 195.40549 200.51643 205.31187 207.41214 211.91914 216.93092 222.04185 229.94714 235.05807 238.25804 243.06252 246.26248 248.56105 253.57283 258.68378"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1123">G.P. NMOS. Ib=0 A, Vds=3.3 V, Ids=330 μA (during conmutation)</tspan></text>
+      </g>
+      <g
+         id="g1127">
+        <text
+           transform="matrix(1,0,0,-1,573.392,243.609)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1131"><tspan
+             x="0"
+             y="0"
+             id="tspan1129">2</tspan></text>
+      </g>
+      <g
+         id="g1133">
+        <text
+           transform="matrix(1,0,0,-1,656.306,243.609)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1137"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1135">--</tspan></text>
+      </g>
+      <g
+         id="g1139">
+        <text
+           transform="matrix(1,0,0,-1,740.211,243.609)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1143"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1141">--</tspan></text>
+      </g>
+      <g
+         id="g1145">
+        <text
+           transform="matrix(1,0,0,-1,890.589,243.609)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1149"><tspan
+             x="0 5.4084001 7.5086622 15.41394"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1147">1 mW</tspan></text>
+      </g>
+      <g
+         id="g1151">
+        <text
+           transform="matrix(1,0,0,-1,992.891,243.609)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1155"><tspan
+             x="0 5.5976939 10.609478 15.720416 20.119247 22.417818 27.627911 32.531525 35.839664 37.939926 42.95171 48.062649 50.469387 54.967373 57.067635 63.981373 69.092308 73.995926 79.106865 81.207123 86.318062 89.716339 94.728127 99.523575 102.83171 107.63618 115.54145 123.44673 125.7453 130.85623"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1153">Consider only when programming</tspan></text>
+      </g>
+      <g
+         id="g1157">
+        <text
+           transform="matrix(1,0,0,-1,132.009,228.019)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1161"><tspan
+             x="0 6.2106462 11.114262 16.31534 21.218956 24.42794 26.726509 31.233509 33.333771 38.832314 44.14156 49.640099 54.949345 57.049606 61.944206 65.153191 70.15596 75.059578 80.170517 82.270775 86.777779 91.987869"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1159">Generic 0805 green LED</tspan></text>
+      </g>
+      <g
+         id="g1163">
+        <text
+           transform="matrix(1,0,0,-1,273.798,228.019)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1167"><tspan
+             x="0 5.7960019 10.194834 14.593666 19.704603 27.609882 29.908451 35.01939 39.814838 41.9151 47.413639 50.316147 52.416409 57.82481 59.925072 65.333473 70.832008 72.932274 79.142921 81.243179 86.651581 92.059982 94.160248 100.5692 102.66946 107.06829 111.97191 115.28004 117.57861 122.48223 126.88107 128.98132 132.28946 137.19308 141.59192 143.89049 148.28931 151.48929 156.50107"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1165">Assuming Vf = 3V &amp; 39 Ω series resistor</tspan></text>
+      </g>
+      <g
+         id="g1169">
+        <text
+           transform="matrix(1,0,0,-1,573.392,228.019)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1173"><tspan
+             x="0"
+             y="0"
+             id="tspan1171">2</tspan></text>
+      </g>
+      <g
+         id="g1175">
+        <text
+           transform="matrix(1,0,0,-1,650.296,228.019)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1179"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1177">3.3</tspan></text>
+      </g>
+      <g
+         id="g1181">
+        <text
+           transform="matrix(1,0,0,-1,729.298,228.019)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1185"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1183">7.7 mA</tspan></text>
+      </g>
+      <g
+         id="g1187">
+        <text
+           transform="matrix(1,0,0,-1,884.013,228.019)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1191"><tspan
+             x="0 5.4084001 10.8168 13.223538 18.631939 20.732201 28.637478"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1189">50.8 mW</tspan></text>
+      </g>
+      <g
+         id="g1193">
+        <text
+           transform="matrix(1,0,0,-1,132.009,212.513)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1197"><tspan
+             x="0 6.2106462 11.114262 16.31534 21.218956 24.42794 26.726509 31.233509 33.333771 38.832314 44.14156 49.640099 54.949345 57.049606 60.447884 65.351501 70.561592 72.562698 77.159843 82.270775"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1195">Generic 0805 red LED</tspan></text>
+      </g>
+      <g
+         id="g1199">
+        <text
+           transform="matrix(1,0,0,-1,273.798,212.513)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1203"><tspan
+             x="0 5.7960019 10.194834 14.593666 19.704603 27.609882 29.908451 35.01939 39.814838 41.9151 47.413639 50.316147 52.416409 57.82481 59.925072 65.333473 70.832008 72.932274 79.142921 81.243179 86.651581 92.059982 97.468384 99.568642 105.9776 108.07786 112.47669 117.38031 120.68845 122.98701 127.89063 132.28946 134.38972 137.69786 142.60149 147.00031 149.29889 153.69771 156.89769 161.90947"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1201">Assuming Vf = 2V &amp; 150 Ω series resistor</tspan></text>
+      </g>
+      <g
+         id="g1205">
+        <text
+           transform="matrix(1,0,0,-1,573.392,212.513)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1209"><tspan
+             x="0"
+             y="0"
+             id="tspan1207">2</tspan></text>
+      </g>
+      <g
+         id="g1211">
+        <text
+           transform="matrix(1,0,0,-1,650.296,212.513)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1215"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1213">3.3</tspan></text>
+      </g>
+      <g
+         id="g1217">
+        <text
+           transform="matrix(1,0,0,-1,729.298,212.513)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1221"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1219">8.7 mA</tspan></text>
+      </g>
+      <g
+         id="g1223">
+        <text
+           transform="matrix(1,0,0,-1,884.013,212.513)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1227"><tspan
+             x="0 5.4084001 10.8168 13.223538 18.631939 20.732201 28.637478"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1225">57.4 mW</tspan></text>
+      </g>
+      <g
+         id="g1229">
+        <text
+           transform="matrix(1,0,0,-1,0.992,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1233"><tspan
+             x="0 5.90417 11.015108 14.215078 17.415049 22.426832 27.537769"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1231">Buttons</tspan></text>
+      </g>
+      <g
+         id="g1235">
+        <text
+           transform="matrix(1,0,0,-1,132.009,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1239"><tspan
+             x="0 5.4985399 10.609478 13.016216 15.3238 18.920385 24.031324 29.331556 31.431818 34.6408 39.643574 43.952263 46.250835 50.748821 53.849636 58.951561 62.160545"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1237">Pull-up resistors</tspan></text>
+      </g>
+      <g
+         id="g1241">
+        <text
+           transform="matrix(1,0,0,-1,573.392,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1245"><tspan
+             x="0"
+             y="0"
+             id="tspan1243">5</tspan></text>
+      </g>
+      <g
+         id="g1247">
+        <text
+           transform="matrix(1,0,0,-1,650.296,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1251"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1249">3.3</tspan></text>
+      </g>
+      <g
+         id="g1253">
+        <text
+           transform="matrix(1,0,0,-1,674.787,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1257"><tspan
+             x="0 5.4084001 7.5086622 10.41117 15.522108 20.624031 23.824001 25.924265 31.134356 36.245293 40.644127 45.755062 50.65868 55.868771"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1255">0 (not pushed)</tspan></text>
+      </g>
+      <g
+         id="g1259">
+        <text
+           transform="matrix(1,0,0,-1,768.813,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1263"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.325462 23.535555"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1261">330 μA</tspan></text>
+      </g>
+      <g
+         id="g1265">
+        <text
+           transform="matrix(1,0,0,-1,833.301,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1269"><tspan
+             x="0 5.4084001 7.5086622 10.510324 15.621262 20.633045 23.833015 25.933277 31.14337 36.254307 40.653141 45.764076 50.667694 55.877785"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1267">0 (not pushed)</tspan></text>
+      </g>
+      <g
+         id="g1271">
+        <text
+           transform="matrix(1,0,0,-1,926.306,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1275"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1273">5.4 mW</tspan></text>
+      </g>
+      <g
+         id="g1277">
+        <text
+           transform="matrix(1,0,0,-1,998.107,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1281"><tspan
+             x="0 8.0134459 13.02523 16.333368 20.732201 23.932171 26.032433 30.539433 35.343895 39.742725 44.646343 47.251389 49.35165 54.156113 56.562851 58.969589 61.069851 66.279945 69.588081 74.491699 78.890526 83.28936 88.192978 93.403069 95.503326 100.30779 103.50776 105.60802 110.6198 115.73074 120.23775"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1279">Worst case: all pressed at once</tspan></text>
+      </g>
+      <g
+         id="g1283">
+        <text
+           transform="matrix(1,0,0,-1,0.992,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1287"><tspan
+             x="0 5.4985399 10.510324 17.424063 22.327679 25.635817 29.232403 34.343342 39.553432 41.653694 46.863785 51.974724 55.174694 58.374664 63.386448"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1285">Power-up button</tspan></text>
+      </g>
+      <g
+         id="g1289">
+        <text
+           transform="matrix(1,0,0,-1,132.009,181.332)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1293"><tspan
+             x="0 5.805016 11.105248 16.31534 21.72374 27.132139 32.928143"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1291">BSS84AK</tspan></text>
+      </g>
+      <g
+         id="g1295">
+        <text
+           transform="matrix(1,0,0,-1,573.392,181.332)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1299"><tspan
+             x="0"
+             y="0"
+             id="tspan1297">1</tspan></text>
+      </g>
+      <g
+         id="g1301">
+        <text
+           transform="matrix(1,0,0,-1,656.306,181.332)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1305"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1303">--</tspan></text>
+      </g>
+      <g
+         id="g1307">
+        <text
+           transform="matrix(1,0,0,-1,740.211,181.332)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1311"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1309">--</tspan></text>
+      </g>
+      <g
+         id="g1313">
+        <text
+           transform="matrix(1,0,0,-1,889.313,181.332)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1317"><tspan
+             x="0 5.4084001 10.8168 12.917062 18.028"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1315">45 nW</tspan></text>
+      </g>
+      <g
+         id="g1319">
+        <text
+           transform="matrix(1,0,0,-1,132.009,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1323"><tspan
+             x="0 5.4084001 11.7182 17.21674 22.525986 28.024527 33.333771"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1321">1N4148W</tspan></text>
+      </g>
+      <g
+         id="g1325">
+        <text
+           transform="matrix(1,0,0,-1,573.392,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1329"><tspan
+             x="0"
+             y="0"
+             id="tspan1327">2</tspan></text>
+      </g>
+      <g
+         id="g1331">
+        <text
+           transform="matrix(1,0,0,-1,656.306,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1335"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1333">--</tspan></text>
+      </g>
+      <g
+         id="g1337">
+        <text
+           transform="matrix(1,0,0,-1,740.211,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1341"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1339">--</tspan></text>
+      </g>
+      <g
+         id="g1343">
+        <text
+           transform="matrix(1,0,0,-1,1019.31,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1347"><tspan
+             x="0 7.9142919 13.016216 16.324354 20.633045 23.833015 25.933277 30.530418 35.235725 39.733711 44.538174 47.23336 49.234467 54.534698 59.546486 62.746452 67.857391 69.957657 76.357597"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1345">Worst case: both ON</tspan></text>
+      </g>
+      <g
+         id="g1349">
+        <text
+           transform="matrix(1,0,0,-1,573.392,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1353"><tspan
+             x="0"
+             y="0"
+             id="tspan1351">1</tspan></text>
+      </g>
+      <g
+         id="g1355">
+        <text
+           transform="matrix(1,0,0,-1,650.296,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1359"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1357">4.2</tspan></text>
+      </g>
+      <g
+         id="g1361">
+        <text
+           transform="matrix(1,0,0,-1,0.992,134.731)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1365"><tspan
+             x="0 5.1109381 10.122722 15.23366 17.333921 21.840921 27.438616 33.450954 35.551216 40.761307 43.059879 47.45871 52.6688 55.075539 59.880001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1363">TFT LCD display</tspan></text>
+      </g>
+      <g
+         id="g1367">
+        <text
+           transform="matrix(1,0,0,-1,132.009,134.731)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1371"><tspan
+             x="0 4.507 10.014554 16.117031 18.217295 23.328232 28.231848 33.342785 35.443047 39.048649 43.555649 47.161247 52.659786 57.969032 63.467575 68.776817 70.877083 78.881516 83.785133 89.085365 94.196297 96.503883"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1369">LCD TFT ILI9341 module</tspan></text>
+      </g>
+      <g
+         id="g1373">
+        <text
+           transform="matrix(1,0,0,-1,273.798,134.731)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1377"><tspan
+             x="0 5.4084001 10.8168 16.225201 20.82234 26.23074 31.639139 37.047539 42.257633 44.357895 48.864895 54.462589 60.474926 62.575188 65.576851 72.887207 77.790817 82.595284 86.994118 92.105049 95.413193 100.3168 105.5269"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1375">320x240p LCD (Measured)</tspan></text>
+      </g>
+      <g
+         id="g1379">
+        <text
+           transform="matrix(1,0,0,-1,573.392,134.731)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1383"><tspan
+             x="0"
+             y="0"
+             id="tspan1381">1</tspan></text>
+      </g>
+      <g
+         id="g1385">
+        <text
+           transform="matrix(1,0,0,-1,650.296,134.731)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1389"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1387">3.3</tspan></text>
+      </g>
+      <g
+         id="g1391">
+        <text
+           transform="matrix(1,0,0,-1,989.405,134.731)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1395"><tspan
+             x="0 8.0134459 13.02523 16.333368 20.732201 23.932171 26.032433 30.539433 35.343895 39.742725 44.646343 47.251389 49.35165 54.156113 56.562851 58.969589 61.069851 66.279945 68.578514 73.175652 78.079269 80.486008 84.884834 86.9851 93.898834 99.009773 101.30835 104.50832 109.41193 111.81867 113.91893 119.32733 124.73573 126.83599 131.84778 137.34631"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1393">Worst case: all pixels white, 60 FPS</tspan></text>
+      </g>
+      <g
+         id="g1397">
+        <text
+           transform="matrix(1,0,0,-1,0.992,111.316)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1401"><tspan
+             x="0 5.2100921 7.5086622 12.30411 17.415049 22.219509 24.626247 26.726509 31.233509 36.245293 41.356232 46.566322 48.864895 52.064865 54.363434 59.375217 64.486153 66.784729 71.89566"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1399">Signal conditioning</tspan></text>
+      </g>
+      <g
+         id="g1403">
+        <text
+           transform="matrix(1,0,0,-1,132.009,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1407"><tspan
+             x="0 4.507 11.7182 17.21674 22.715281 28.024527 33.523067 39.436249 45.836189 51.542053"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1405">LMV358DGKR</tspan></text>
+      </g>
+      <g
+         id="g1409">
+        <text
+           transform="matrix(1,0,0,-1,273.798,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1413"><tspan
+             x="0 6.300786 11.204402 16.31534 21.218956 24.527094 29.331556 31.738295 33.838554 39.048649 44.159588 47.467724 52.677814 57.689602 62.088432 66.99205 69.092308 74.302399 79.413338 84.217804 86.624542 88.7248 95.124741 100.33483 106.13084 114.03612 119.24621 121.65295 123.7532 130.66695 132.96552 136.16548 141.27643 143.37668 148.48763 153.4994 155.59967 158.00641 163.01819 167.82265"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1411">General purpose dual OpAmp, with no load</tspan></text>
+      </g>
+      <g
+         id="g1415">
+        <text
+           transform="matrix(1,0,0,-1,573.392,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1419"><tspan
+             x="0"
+             y="0"
+             id="tspan1417">1</tspan></text>
+      </g>
+      <g
+         id="g1421">
+        <text
+           transform="matrix(1,0,0,-1,650.296,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1425"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1423">3.3</tspan></text>
+      </g>
+      <g
+         id="g1427">
+        <text
+           transform="matrix(1,0,0,-1,949.408,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1431"><tspan
+             x="0 5.4084001 7.7159839 13.214524 15.314786 23.129925"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1429">1.1 mW</tspan></text>
+      </g>
+      <g
+         id="g1433">
+        <text
+           transform="matrix(1,0,0,-1,1008.198,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1437"><tspan
+             x="0 5.90417 10.915954 14.115924 19.226862 21.327124 27.727064 32.937157 38.733158 46.638435 51.84853 56.24736 58.654099 60.75436 65.865295 68.163872 72.959312 78.070251 80.170517 85.380608 87.480873 89.887611 94.899391 99.703857"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1435">Both OpAmps, high Z load</tspan></text>
+      </g>
+      <g
+         id="g1439">
+        <text
+           transform="matrix(1,0,0,-1,132.009,103.521)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1443"><tspan
+             x="0 5.4084001 11.7182 17.21674 22.525986 28.024527 33.333771"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1441">1N4148W</tspan></text>
+      </g>
+      <g
+         id="g1445">
+        <text
+           transform="matrix(1,0,0,-1,573.392,103.521)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1449"><tspan
+             x="0"
+             y="0"
+             id="tspan1447">4</tspan></text>
+      </g>
+      <g
+         id="g1451">
+        <text
+           transform="matrix(1,0,0,-1,656.306,103.521)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1455"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1453">--</tspan></text>
+      </g>
+      <g
+         id="g1457">
+        <text
+           transform="matrix(1,0,0,-1,998.787,103.521)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1461"><tspan
+             x="0 5.5976939 10.609478 15.720416 20.119247 22.417818 27.627911 32.531525 35.839664 37.939926 42.84354 47.954479 50.451359 54.949345 57.049606 63.963345 69.07428 73.977898 79.088837 81.189095 89.094376 93.997993 98.802452 103.20129 108.31223 111.52121 113.91893 119.02987"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1459">Consider only when measuring</tspan></text>
+      </g>
+      <g
+         id="g1463">
+        <text
+           transform="matrix(1,0,0,-1,0.992,72.425)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1467"><tspan
+             x="0 4.507 9.5187836 14.323246 19.533339 21.6336 26.1406 31.044216 33.450954 35.857693 37.957954 42.762417 50.667694 55.877785 58.284523 60.583096 65.694031 70.597649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1465">Load cell amplifer</tspan></text>
+      </g>
+      <g
+         id="g1469">
+        <text
+           transform="matrix(1,0,0,-1,132.009,88.016)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1473"><tspan
+             x="0 6.39994 11.907494 17.21674 22.715281"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1471">HX711</tspan></text>
+      </g>
+      <g
+         id="g1475">
+        <text
+           transform="matrix(1,0,0,-1,273.798,88.016)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1479"><tspan
+             x="0 4.507 9.5187836 14.323246 19.533339 21.6336 26.1406 31.044216 33.450954 35.857693 37.957954 42.762417 50.667694 55.877785 58.284523 60.583096 65.694031 70.597649 73.905785 76.00605 82.216698 84.316956 90.112961 96.125298 101.72299 103.82325 107.42885"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1477">Load cell amplifer &amp; ADC IC</tspan></text>
+      </g>
+      <g
+         id="g1481">
+        <text
+           transform="matrix(1,0,0,-1,573.392,88.016)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1485"><tspan
+             x="0"
+             y="0"
+             id="tspan1483">1</tspan></text>
+      </g>
+      <g
+         id="g1487">
+        <text
+           transform="matrix(1,0,0,-1,650.296,88.016)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1491"><tspan
+             x="0 5.4084001 7.8151379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1489">3.3</tspan></text>
+      </g>
+      <g
+         id="g1493">
+        <text
+           transform="matrix(1,0,0,-1,729.298,88.016)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1497"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1495">1.4 mA</tspan></text>
+      </g>
+      <g
+         id="g1499">
+        <text
+           transform="matrix(1,0,0,-1,886.706,88.016)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1503"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238 23.229078"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1501">4.6 mW</tspan></text>
+      </g>
+      <g
+         id="g1505">
+        <text
+           transform="matrix(1,0,0,-1,990.51,88.016)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1509"><tspan
+             x="0 5.2100921 10.32103 13.521 18.424616 21.732754 26.131586 28.231848 32.63068 35.037418 39.941032 44.84465 50.054741 52.155003 54.453575 57.356083 59.456345 62.656315 67.76725 72.670868 74.771133 79.981224 84.785683 87.985657 92.790115 94.890381 99.397377 101.80412 106.8159 111.3229 116.02821 118.12847 122.52731 125.72727 130.73906 135.94914"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1507">Enters sleep if the data clock stops</tspan></text>
+      </g>
+      <g
+         id="g1511">
+        <text
+           transform="matrix(1,0,0,-1,132.009,72.425)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1515"><tspan
+             x="0 5.805016 11.501864 16.81111 22.30965"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1513">BC858</tspan></text>
+      </g>
+      <g
+         id="g1517">
+        <text
+           transform="matrix(1,0,0,-1,273.798,72.425)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1521"><tspan
+             x="0 6.300786 11.204402 16.31534 21.218956 24.527094 29.331556 31.738295 33.838554 39.048649 44.159588 47.467724 52.677814 57.689602 62.088432 66.99205 69.092308 74.590851 80.990791 86.489326 88.589592 94.493759 99.090904 104.20184 106.60858 108.70884 114.20738 118.71438 123.618 129.0264 134.4348 136.84154 142.24994 147.74847 150.15521 152.25548 155.86107 160.36807 165.27168 170.68008 174.97977 177.08003 182.29012 188.08612 190.18639 193.18805 200.4984 205.40202 210.20648 214.60532 219.71625 223.02438 227.92801 233.13809"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1519">General purpose PNP BJT. Vce=1.8V, Ice=? μA (Measured)</tspan></text>
+      </g>
+      <g
+         id="g1523">
+        <text
+           transform="matrix(1,0,0,-1,573.392,72.425)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1527"><tspan
+             x="0"
+             y="0"
+             id="tspan1525">1</tspan></text>
+      </g>
+      <g
+         id="g1529">
+        <text
+           transform="matrix(1,0,0,-1,656.306,72.425)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1533"><tspan
+             x="0 3.596586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1531">--</tspan></text>
+      </g>
+      <g
+         id="g1535">
+        <text
+           transform="matrix(1,0,0,-1,987.506,72.425)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1539"><tspan
+             x="0 5.5976939 10.609478 15.720416 20.119247 22.417818 27.627911 32.531525 35.839664 37.939926 42.95171 48.062649 50.469387 54.967373 57.067635 63.981373 69.092308 73.995926 79.106865 81.207123 87.607063 93.114616 98.523018 103.93142 109.33982 111.44008 113.73866 118.13748 120.23775 125.04221 131.95595 136.76041 141.46571"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1537">Consider only when HX711 is awake</tspan></text>
+      </g>
+      <g
+         id="g1541">
+        <text
+           transform="matrix(1,0,0,-1,132.009,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1545"><tspan
+             x="0 5.4084001 10.8168 12.917062 17.62237 24.031324 26.131586 31.440832 33.541096 39.039635 44.348881 46.449142 51.154449 57.653545 59.753807 64.0625 69.164421 71.472008 74.671974 79.566582 84.362022 89.26564 91.365906 96.476845 98.775414 103.2734 105.57197 110.68291 115.58652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1543">22 kΩ + 10 kΩ voltage divider</tspan></text>
+      </g>
+      <g
+         id="g1547">
+        <text
+           transform="matrix(1,0,0,-1,273.798,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1551"><tspan
+             x="0 5.4985399 10.510324 16.414494 18.514755 23.724848 26.023418 31.134356 33.234619 36.137127 41.040741 45.944359 51.154449 56.36454 61.169003 65.676003 70.38131 72.481575 75.384079 80.395866 83.704002 85.804268 91.600266 97.098808 103.11115 109.12348 114.53188 119.94028 122.34702 127.75542 133.16382 135.26408 140.76262 142.86288 146.17102 151.07465 155.87009 160.98103 163.38777 168.19223 171.3922 173.69077 178.70255 183.81349"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1549">VFB pin feedback for AVDD=1.82 V regulation.</tspan></text>
+      </g>
+      <g
+         id="g1553">
+        <text
+           transform="matrix(1,0,0,-1,573.392,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1557"><tspan
+             x="0"
+             y="0"
+             id="tspan1555">1</tspan></text>
+      </g>
+      <g
+         id="g1559">
+        <text
+           transform="matrix(1,0,0,-1,644.91,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1563"><tspan
+             x="0 5.4985399 7.8061242 13.214524"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1561">1.82</tspan></text>
+      </g>
+      <g
+         id="g1565">
+        <text
+           transform="matrix(1,0,0,-1,987.506,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1569"><tspan
+             x="0 5.5976939 10.609478 15.720416 20.119247 22.417818 27.627911 32.531525 35.839664 37.939926 42.95171 48.062649 50.469387 54.967373 57.067635 63.981373 69.092308 73.995926 79.106865 81.207123 87.607063 93.114616 98.523018 103.93142 109.33982 111.44008 113.73866 118.13748 120.23775 125.04221 131.95595 136.76041 141.46571"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1567">Consider only when HX711 is awake</tspan></text>
+      </g>
+      <g
+         id="g1571" />
+      <g
+         id="g1573">
+        <text
+           transform="matrix(1,0,0,-1,729.099,461.509)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1577"><tspan
+             x="0 5.4084001 10.8168 16.225201"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1575">165</tspan></text>
+      </g>
+      <g
+         id="g1579">
+        <text
+           transform="matrix(1,0,0,-1,747.411,461.509)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1583"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1581">μA</tspan></text>
+      </g>
+      <g
+         id="g1585">
+        <text
+           transform="matrix(1,0,0,-1,949.408,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1589"><tspan
+             x="0 5.4084001 7.8151379 13.223538 15.3238"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1587">4.2 m</tspan></text>
+      </g>
+      <g
+         id="g1591">
+        <text
+           transform="matrix(1,0,0,-1,972.595,430.328)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1595"><tspan
+             x="0"
+             y="0"
+             id="tspan1593">W</tspan></text>
+      </g>
+      <g
+         id="g1597">
+        <text
+           transform="matrix(1,0,0,-1,1005.704,358.413)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1601"><tspan
+             x="0 5.5976939 10.609478 15.720416 20.119247 22.417818 27.627911 32.531525 35.839664 37.939926 42.95171 48.062649 50.469387 54.967373 57.067635 59.366203 62.268711 64.368973 69.579063 74.590851 79.800941 84.91188 87.318619 92.123077 95.323051 100.22667 105.43676 107.8435"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1599">Consider only if populated.</tspan></text>
+      </g>
+      <g
+         id="g1603">
+        <text
+           transform="matrix(1,0,0,-1,990.595,346.734)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1607"><tspan
+             x="0 5.0117841 10.023568 13.331706 15.431968 19.938969 25.049906 29.854368 33.162506 37.957954 40.256523 45.367462 50.16291 52.263172 55.868771 61.466465 65.865295 67.965561 72.77002 77.880959 83.091049 85.191315 91.095482 95.692627 100.80356 103.40861 105.50887 110.01587 115.02766 120.1386 124.53742 126.83599 132.04608 136.94971 140.25784"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1605">For charging ICs and BJT: consider</tspan></text>
+      </g>
+      <g
+         id="g1609">
+        <text
+           transform="matrix(1,0,0,-1,987.591,335.027)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1613"><tspan
+             x="0 5.0117841 10.122722 12.52946 17.027447 19.127708 26.041447 31.152384 36.056 41.166939 43.2672 47.7742 52.885139 57.689602 60.997738 65.793182 68.091759 73.202698 77.998138 80.098404 83.29837 88.409309 93.312927 95.413193 100.62328 105.42774 108.62772 111.82768 116.7313 120.03944 124.53742 126.63769 129.54019 134.54297 136.94971 141.34854 146.25215"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1611">only when charging the battery (else</tspan></text>
+      </g>
+      <g
+         id="g1615">
+        <text
+           transform="matrix(1,0,0,-1,997.087,323.32)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1619"><tspan
+             x="0 3.19997 8.3109083 13.214524 17.62237 19.812773 24.617233 27.925371 32.828987 34.929249 39.941032 42.84354 45.746052 48.747711 51.154449 53.254711 56.860313 61.971249 64.07151 67.271484 72.382423 74.680992 79.079819 81.180084 85.68708 90.491547 94.80024 99.803009 101.90327 107.11337 112.12514 119.03889 123.84335 127.24162"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1617">they are off). In this case power</tspan></text>
+      </g>
+      <g
+         id="g1621">
+        <text
+           transform="matrix(1,0,0,-1,991.587,311.613)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1625"><tspan
+             x="0 4.507 9.5187836 14.629722 19.028555 24.139492 32.044769 37.155708 40.45483 42.654247 47.756172 52.867111 54.967373 59.474373 64.486153 72.391434 77.195892 81.693886 83.794144 86.696655 89.90564 95.007561 102.91284 105.0131 109.91672 114.51385 117.71383 122.61744 125.92558 131.03651 135.84097 138.24771"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1623">consumption comes from external</tspan></text>
+      </g>
+      <g
+         id="g1627">
+        <text
+           transform="matrix(1,0,0,-1,986.797,299.934)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1631"><tspan
+             x="0 4.3988318 9.5097704 14.719862 19.929955 22.336693 26.834679 28.93494 34.045879 39.057663 42.257633 44.357895 47.260403 50.568539 55.580322 63.485603 65.585861 68.785835 73.896774 78.800385 80.90065 83.199219 88.310158 91.510124 96.413742 99.721886 104.83282 109.63728 112.04402 114.14428 119.35438 124.15884 127.3588 130.55878 135.46239 138.77052 143.26851 145.67525"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1629">supply not from the internal battery.</tspan></text>
+      </g>
+      <g
+         id="g1633">
+        <text
+           transform="matrix(1,0,0,-1,852.293,352.516)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1637"><tspan
+             x="0 5.4084001 7.8151379 13.223538 18.631939 20.732201 28.745646 30.845907 36.254307 38.354568 43.76297 49.171371 51.271633 59.17691 67.190353"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1635">1.71 W + 84 mW</tspan></text>
+      </g>
+      <g
+         id="g1639">
+        <text
+           transform="matrix(1,0,0,-1,921.487,352.516)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1643"><tspan
+             x="0 5.4084001 7.5086622 12.917062 15.3238 20.732201 22.832462"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1641">≈ 1.8 W</tspan></text>
+      </g>
+      <g
+         id="g1645">
+        <text
+           transform="matrix(1,0,0,-1,867.402,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1649"><tspan
+             x="0 5.4084001 10.8168 13.223538"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1647">12.6</tspan></text>
+      </g>
+      <g
+         id="g1651">
+        <text
+           transform="matrix(1,0,0,-1,888.09726,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1655"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1653">μW</tspan></text>
+      </g>
+      <g
+         id="g1657">
+        <text
+           transform="matrix(1,0,0,-1,946.687,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1661"><tspan
+             x="0 5.4084001 10.8168 13.223538"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1659">25.6</tspan></text>
+      </g>
+      <g
+         id="g1663">
+        <text
+           transform="matrix(1,0,0,-1,967.41026,305.83)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1667"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1665">μW</tspan></text>
+      </g>
+      <g
+         id="g1669">
+        <text
+           transform="matrix(1,0,0,-1,989.291,226.12)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1673"><tspan
+             x="0 5.5976939 10.609478 15.720416 20.119247 22.417818 27.627911 32.531525 35.839664 37.939926 44.853664 49.964603 54.868217 59.979156 62.079418 67.289513 70.597649 75.609428 80.404877 83.71302 88.517479 96.42276 104.32803 106.62661 111.73754 116.53299 118.93973 121.03999 126.15093 130.54976 132.84833 137.95927 142.75471"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1671">Consider when programming, using</tspan></text>
+      </g>
+      <g
+         id="g1675">
+        <text
+           transform="matrix(1,0,0,-1,1014.208,214.413)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1679"><tspan
+             x="0 6.1114922 11.907494 17.703497 22.814434 24.914696 29.719158 34.830097 40.040188 42.14045 44.439018 47.34153 49.441792 54.651882 59.663666 64.873756 69.984695 72.391434 77.195892 80.395866 85.299484 90.509575"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1677">UART and if populated.</tspan></text>
+      </g>
+      <g
+         id="g1681">
+        <text
+           transform="matrix(1,0,0,-1,273.798,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1685"><tspan
+             x="0 5.7960019 10.194834 14.593666 19.704603 27.609882 29.908451 35.01939 39.814838 41.9151 44.321838 46.620407 51.731346 56.63496 58.735226 61.14196 66.045578 70.453423 75.35704 77.763779 79.864037 82.162613 86.56144 88.661705 93.168701 99.568642 107.58209 109.98883 112.08909 117.49749 122.90589"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1683">Assuming line level is LOW, 10k</tspan></text>
+      </g>
+      <g
+         id="g1687">
+        <text
+           transform="matrix(1,0,0,-1,401.301,196.923)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1691"><tspan
+             x="0 6.4089541 8.5092163 11.817354 16.72097 21.119802 23.418371 27.817204 31.017174 36.028957 39.337097"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1689">Ω resistors</tspan></text>
+      </g>
+      <g
+         id="g1693">
+        <text
+           transform="matrix(1,0,0,-1,273.798,181.332)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1697"><tspan
+             x="0 6.300786 8.7075243 14.206064 16.612803 18.713064 24.211603 31.521957 37.921898 43.131989 45.538727 47.638988 53.434994 57.833824 63.043915 66.045578 71.057365 76.168297 79.16996 81.270226 86.678627 88.778885 94.187286"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1695">G.P. PMOS. Rsd(on) = 7.</tspan></text>
+      </g>
+      <g
+         id="g1699">
+        <text
+           transform="matrix(1,0,0,-1,370.29,181.332)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1703"><tspan
+             x="0 5.4084001 7.5086622 13.917616 16.324354 18.424616 22.030216 27.240309 32.648708 38.05711 40.463844 42.56411 46.169708 50.568539 55.778633 57.878895 63.287292 65.387558 70.795959 76.204353"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1701">5 Ω, Ib=0, Isd = 77</tspan></text>
+      </g>
+      <g
+         id="g1705">
+        <text
+           transform="matrix(1,0,0,-1,448.498,181.332)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1709"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1707">μA</tspan></text>
+      </g>
+      <g
+         id="g1711">
+        <text
+           transform="matrix(1,0,0,-1,273.798,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1715"><tspan
+             x="0 5.2100921 13.11537 17.919832 20.326571 22.733309 24.83357 29.232403 31.530972 36.32642 41.437359 46.241821 48.64856 50.748821 55.958912 58.257481 63.269264 68.479355 73.382973 75.789711 77.889977 83.388512 86.291023 91.699425 97.107819 99.514557 104.92296 107.02322 112.52176 114.9285 117.02876 120.63436 123.53687 128.94527 134.35367 139.76207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1713">Small signal diode. Vf=0.7 V, If=26</tspan></text>
+      </g>
+      <g
+         id="g1717">
+        <text
+           transform="matrix(1,0,0,-1,415.502,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1721"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1719">μA</tspan></text>
+      </g>
+      <g
+         id="g1723">
+        <text
+           transform="matrix(1,0,0,-1,885.288,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1727"><tspan
+             x="0 5.4985399 10.807786 13.304664 18.613911"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1725">36.4</tspan></text>
+      </g>
+      <g
+         id="g1729">
+        <text
+           transform="matrix(1,0,0,-1,906.009,165.827)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1733"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1731">μW</tspan></text>
+      </g>
+      <g
+         id="g1735">
+        <text
+           transform="matrix(1,0,0,-1,132.009,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1739"><tspan
+             x="0 5.4084001 10.8168 16.225201"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1737">100</tspan></text>
+      </g>
+      <g
+         id="g1741">
+        <text
+           transform="matrix(1,0,0,-1,150.293,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1745"><tspan
+             x="0 4.705308 11.114262 13.214524 18.424616 23.535555 25.942291 28.34903 31.945616 37.056553 42.266647 44.366909 47.675045 52.578663 56.977493 59.276066 63.674896 66.874863 71.88665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1743">kΩ pull-up resistor</tspan></text>
+      </g>
+      <g
+         id="g1747">
+        <text
+           transform="matrix(1,0,0,-1,273.798,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1751"><tspan
+             x="0 5.4084001 10.8168 16.225201"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1749">100</tspan></text>
+      </g>
+      <g
+         id="g1753">
+        <text
+           transform="matrix(1,0,0,-1,292.11,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1757"><tspan
+             x="0 4.705308 11.204402 13.20551 18.415602 23.526541 25.933277 28.340015 31.936602 37.047539 42.257633 44.357895 47.666031 52.569649 56.968479 59.267052 63.665882 66.965004 71.868622"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1755">kΩ pull-up resistor</tspan></text>
+      </g>
+      <g
+         id="g1759">
+        <text
+           transform="matrix(1,0,0,-1,731.792,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1763"><tspan
+             x="0 5.4985399 10.807786"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1761">42</tspan></text>
+      </g>
+      <g
+         id="g1765">
+        <text
+           transform="matrix(1,0,0,-1,744.69,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1769"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1767">μA</tspan></text>
+      </g>
+      <g
+         id="g1771">
+        <text
+           transform="matrix(1,0,0,-1,882.709,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1775"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.532784"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1773">176.4</tspan></text>
+      </g>
+      <g
+         id="g1777">
+        <text
+           transform="matrix(1,0,0,-1,908.79026,150.208)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1781"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1779">μW</tspan></text>
+      </g>
+      <g
+         id="g1783">
+        <text
+           transform="matrix(1,0,0,-1,713.509,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1787"><tspan
+             x="0 5.4084001 10.8168 16.225201"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1785">140</tspan></text>
+      </g>
+      <g
+         id="g1789">
+        <text
+           transform="matrix(1,0,0,-1,731.792,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1793"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1791">μA</tspan></text>
+      </g>
+      <g
+         id="g1795">
+        <text
+           transform="matrix(1,0,0,-1,792.709,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1799"><tspan
+             x="0 5.4985399 10.807786 16.306326"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1797">340</tspan></text>
+      </g>
+      <g
+         id="g1801">
+        <text
+           transform="matrix(1,0,0,-1,810.992,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1805"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1803">μA</tspan></text>
+      </g>
+      <g
+         id="g1807">
+        <text
+           transform="matrix(1,0,0,-1,869.811,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1811"><tspan
+             x="0 5.4084001 10.8168"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1809">462</tspan></text>
+      </g>
+      <g
+         id="g1813">
+        <text
+           transform="matrix(1,0,0,-1,888.09726,119.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1817"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1815">μW</tspan></text>
+      </g>
+      <g
+         id="g1819">
+        <text
+           transform="matrix(1,0,0,-1,273.798,103.521)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1823"><tspan
+             x="0 5.2100921 13.11537 17.919832 20.326571 22.733309 24.83357 29.232403 31.530972 36.32642 41.437359 46.241821 48.64856 50.748821 55.958912 58.257481 63.269264 68.479355 73.382973 75.789711 77.889977 83.388512 86.291023 91.699425 97.107819 99.514557 104.92296 107.02322 112.52176 114.9285 117.02876 120.63436 123.53687 128.94527"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1821">Small signal diode. Vf=0.7 V, If=</tspan></text>
+      </g>
+      <g
+         id="g1825">
+        <text
+           transform="matrix(1,0,0,-1,404.702,103.521)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1829"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1827">μA</tspan></text>
+      </g>
+      <g
+         id="g1831">
+        <text
+           transform="matrix(1,0,0,-1,417.80126,103.521)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1835"><tspan
+             x="0 3.001662 10.312016 15.215632 20.020094 24.418926 29.529863 32.838001 37.741619 42.95171"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1833">(Measured)</tspan></text>
+      </g>
+      <g
+         id="g1837">
+        <text
+           transform="matrix(1,0,0,-1,731.792,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1841"><tspan
+             x="0 5.4985399 10.807786"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1839">57</tspan></text>
+      </g>
+      <g
+         id="g1843">
+        <text
+           transform="matrix(1,0,0,-1,744.69,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1847"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1845">μA</tspan></text>
+      </g>
+      <g
+         id="g1849">
+        <text
+           transform="matrix(1,0,0,-1,882.709,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1853"><tspan
+             x="0 5.4084001 10.8168 16.225201 18.532784"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1851">103.7</tspan></text>
+      </g>
+      <g
+         id="g1855">
+        <text
+           transform="matrix(1,0,0,-1,908.79026,56.835)"
+           style="font-variant:normal;font-weight:normal;font-size:9.014px;font-family:'IBM Plex Sans';-inkscape-font-specification:IBMPlexSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text1859"><tspan
+             x="0 5.2100921"
+             y="0"
+             sodipodi:role="line"
+             id="tspan1857">μW</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
