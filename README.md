@@ -4,7 +4,7 @@ This repository contains the hardware source from my bachelor's thesis in teleco
 
 This project marks the beginning of the development of a handheld device that can measure the modulus of elasticity of wood, a figure of great value for structural purposes, in a non-destructive way by analyzing acoustic signals. Developed with the help of the GranaSAT Electronics Aerospace Group and the IDIE-ADIME Institute, this project is part of the European LIFE Wood for Future initiative. The project encompasses every step in developing an electronic product, including conception, requirements specification, architecture and components selection, topology selection, circuit and PCB design, mechanical design, manufacturing, assembly, firmware, and prototype fabrication. 
 
-Disclaimer: I'm not a software guy.
+Third-party desing elements included in this repository are subject to the copyright of their respective owners.
 
 ```bibtex
 @phdthesis{dpmj-tfg-2022,
