@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: Type C, 20 Vac, 3 A, Vertical, Surface Mount, Power-Only USB Receptacle
+3DX_CUI_DEVICES_Model Number: UJC-VP-3-SMT-TR
